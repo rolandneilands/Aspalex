@@ -1,0 +1,16 @@
+{
+  "name": "discord-gpt-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that chats as the ship personas in a D&D campaign.",
+  "main": "gpt-ship-bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node gpt-ship-bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.25.0",
+    "node-fetch": "^3.3.2"
+  }
+}

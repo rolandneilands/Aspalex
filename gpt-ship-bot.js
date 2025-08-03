@@ -1,9 +1,11 @@
 import { Client, GatewayIntentBits } from 'discord.js';
 import { config } from 'dotenv';
 import OpenAI from 'openai';
+import fs from 'fs/promises';
+import { systemPrompt } from './systemPrompt.js';
 
 // Load .env config
-config();
+dotenv.config();
 
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
@@ -28,7 +30,16 @@ const openai = new OpenAI({
   apiKey: OPENAI_API_KEY,
 });
 
-const COMMAND_REGEX = /\{(.+?)\}\s*asks\s+(the ship|Aspalex|Akaanvaerd|Kalavanjert)[:,]?\s*(.+)/i;
+let loreFiles = {};
+
+async function loadLoreFiles() {
+  loreFiles.sessionLogs = await fs.readFile('./gpt-knowledge/session_logs.md', 'utf8');
+  loreFiles.instructions = await fs.readFile('./gpt-knowledge/instructions.md', 'utf8');
+  loreFiles.locations = await fs.readFile('./gpt-knowledge/locations.md', 'utf8');
+  loreFiles.calendar = await fs.readFile('./gpt-knowledge/calendar.md', 'utf8');
+}
+
+//const COMMAND_REGEX = /\{(.+?)\}\s*asks\s+(the ship|Aspalex|Akaanvaerd|Kalavanjert)[:,]?\s*(.+)/i;
 
 client.once('ready', () => {
   console.log(`🚀 The Ship Who Chats is online as ${client.user.tag}`);
@@ -77,10 +88,12 @@ To show this again, type \`!shiphelp\`.
   }
 
   // QUESTION PARSING
-  const match = content.match(COMMAND_REGEX);
-  if (!match) return;
+  //const match = content.match(COMMAND_REGEX);
+  //if (!match) return;
+  if (!input.includes('asks the ship')) return;
+  
 
-  const character = match[1].trim();
+  /*const character = match[1].trim();
   const target = match[2].trim();
   const question = match[3].trim();
 
@@ -88,16 +101,25 @@ To show this again, type \`!shiphelp\`.
   let prompt = `{${character}} asks the ship: ${question}`;
   if (preferredPersona) {
     prompt += ` (Answer as ${preferredPersona})`;
-  }
+  } */
+  
+  const chatHistory = [
+    { role: 'system', content: systemPrompt },
+    { role: 'system', content: `CAMPAIGN KNOWLEDGE:\n${loreFiles.instructions}\n\n${loreFiles.sessionLogs}\n\n${loreFiles.locations}\n\n${loreFiles.calendar}` },
+    { role: 'user', content: input }
+  ];
+
 
   try {
     await message.channel.sendTyping();
 
     const completion = await openai.chat.completions.create({
-      model: CUSTOM_GPT_ID,
+      /*model: CUSTOM_GPT_ID,
       messages: [
         { role: 'user', content: prompt },
-      ],
+      ],*/
+      model: 'gpt-4o',
+      messages: chatHistory,
       temperature: TEMPERATURE,
       max_tokens: MAX_TOKENS,
     });
@@ -107,7 +129,7 @@ To show this again, type \`!shiphelp\`.
 
   } catch (err) {
     console.error('❌ GPT or API error:', err);
-    await message.reply('⚠️ The ship shudders and falls silent. Something is wrong.');
+    await message.reply('⚠️ The ship shudders, complains about bugs its logs and falls silent. Something is wrong.');
   }
 });
 

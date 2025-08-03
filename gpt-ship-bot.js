@@ -35,10 +35,16 @@ client.once('ready', () => {
 });
 
 client.on('messageCreate', async (message) => {
+  console.log(`📩 Message in channel ${message.channel.id} from ${message.author.tag}: "${message.content}"`);
   if (message.author.bot) return;
   
   // Check if message is from an allowed channel
   if (!allowedChannelIds.includes(message.channel.id)) return;
+  
+  if (message.content.startsWith('!ping')) {
+    message.channel.send('Pong! 🏓');
+    console.log('✅ Responded to !ping');
+  }
 
   const content = message.content.trim();
 
@@ -105,7 +111,12 @@ To show this again, type \`!shiphelp\`.
   }
 });
 
-client.login(DISCORD_TOKEN);
+client.on('error', err => console.error('⚠️ Discord error:', err));
+client.on('warn', w => console.warn('⚠️ Warning:', w));
+
+client.login(DISCORD_TOKEN).catch(err => {
+  console.error('🔑 Login failed:', err);
+});
 
 // Fake HTTP server to keep Render's web service happy
 import http from 'http';

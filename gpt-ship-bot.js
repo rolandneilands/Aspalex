@@ -33,10 +33,10 @@ const openai = new OpenAI({
 let loreFiles = {};
 
 async function loadLoreFiles() {
-  loreFiles.sessionLogs = await fs.readFile('./gpt-knowledge/session_logs.md', 'utf8');
-  loreFiles.instructions = await fs.readFile('./gpt-knowledge/instructions.md', 'utf8');
-  loreFiles.locations = await fs.readFile('./gpt-knowledge/locations.md', 'utf8');
-  loreFiles.calendar = await fs.readFile('./gpt-knowledge/calendar.md', 'utf8');
+  loreFiles.sessionLogs = await fs.readFile('./Session Logs.md', 'utf8');
+  loreFiles.instructions = await fs.readFile('./Instructions.md', 'utf8');
+  loreFiles.locations = await fs.readFile('./Locations.md', 'utf8');
+  loreFiles.calendar = await fs.readFile('./Calendar.md', 'utf8');
 }
 
 //const COMMAND_REGEX = /\{(.+?)\}\s*asks\s+(the ship|Aspalex|Akaanvaerd|Kalavanjert)[:,]?\s*(.+)/i;

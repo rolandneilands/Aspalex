@@ -1,11 +1,12 @@
 import { Client, GatewayIntentBits } from 'discord.js';
-import { config } from 'dotenv';
 import OpenAI from 'openai';
 import fs from 'fs/promises';
 import { systemPrompt } from './systemPrompt.js';
 
+// Commenting out - using Render env vars
+//import { config } from 'dotenv';
 // Load .env config
-dotenv.config();
+// dotenv.config();
 
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;

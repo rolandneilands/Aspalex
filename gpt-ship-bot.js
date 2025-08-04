@@ -111,7 +111,9 @@ To show this again, type \`!shiphelp\`.
       messages: [
         { role: 'user', content: prompt },
       ],*/
-      model: 'gpt-4o',
+      
+      // model: 'gpt-4o',
+      model: 'o1-mini',
       messages: chatHistory,
       temperature: TEMPERATURE,
       max_tokens: MAX_TOKENS,

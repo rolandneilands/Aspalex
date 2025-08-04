@@ -19,9 +19,8 @@ const allowedChannelIds = process.env.DISCORD_CHANNEL_IDS
   .split(',')
   .map(id => id.trim());
 
-
 // Define known personas
-const PERSONAS = ['Aspalex', 'Akaanvaerd', 'Kalavanjert'];
+//const PERSONAS = ['Aspalex', 'Akaanvaerd', 'Kalavanjert'];
 
 const client = new Client({
   intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent],
@@ -34,7 +33,7 @@ const openai = new OpenAI({
 let loreFiles = {};
 
 async function loadLoreFiles() {
-  loreFiles.sessionLogs = await fs.readFile('./Session Logs.md', 'utf8');
+  loreFiles.sessionLogs = await fs.readFile('./SessionLogs.md', 'utf8');
   loreFiles.instructions = await fs.readFile('./Instructions.md', 'utf8');
   loreFiles.locations = await fs.readFile('./Locations.md', 'utf8');
   loreFiles.calendar = await fs.readFile('./Calendar.md', 'utf8');
@@ -67,18 +66,11 @@ client.on('messageCreate', async (message) => {
 
 To ask a question, use this format:
 \`\`\`
-{CharacterName} asks the ship: [your question]
-\`\`\`
-You can also direct your question to one of the ship's personas:
-\`\`\`
-{CharacterName} asks Aspalex: [your question]
-{CharacterName} asks Akaanvaerd: [your question]
-{CharacterName} asks Kalavanjert: [your question]
+{CharacterName} asks the ship [your question]
 \`\`\`
 
-Examples:
+Example:
 - \`{Leon} asks the ship: What do the efreet think of us?\`
-- \`{Teririst} asks Akaanvaerd: Who hired the rakshasa?\`
 
 Only characters known to the ship will be answered. Stay in-world. No metagame questions allowed.
 
@@ -91,7 +83,7 @@ To show this again, type \`!shiphelp\`.
   // QUESTION PARSING
   //const match = content.match(COMMAND_REGEX);
   //if (!match) return;
-  if (!input.includes('asks the ship')) return;
+  if (!content.includes('asks the ship')) return;
   
 
   /*const character = match[1].trim();
@@ -107,7 +99,7 @@ To show this again, type \`!shiphelp\`.
   const chatHistory = [
     { role: 'system', content: systemPrompt },
     { role: 'system', content: `CAMPAIGN KNOWLEDGE:\n${loreFiles.instructions}\n\n${loreFiles.sessionLogs}\n\n${loreFiles.locations}\n\n${loreFiles.calendar}` },
-    { role: 'user', content: input }
+    { role: 'user', content: content }
   ];
 
 

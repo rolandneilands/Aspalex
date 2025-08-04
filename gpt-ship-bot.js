@@ -13,6 +13,7 @@ const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const CUSTOM_GPT_ID = process.env.CUSTOM_GPT_ID;
 const TEMPERATURE = process.env.TEMPERATURE;
 const MAX_TOKENS = process.env.MAX_TOKENS;
+const GPT_MODEL_ID = process.env.GPT_MODEL_ID;
 
 // Load allowed channel IDs into an array
 const allowedChannelIds = process.env.DISCORD_CHANNEL_IDS
@@ -113,7 +114,7 @@ To show this again, type \`!shiphelp\`.
       ],*/
       
       // model: 'gpt-4o',
-      model: 'o1-mini',
+      model: GPT_MODEL_ID,
       messages: chatHistory,
       temperature: TEMPERATURE,
       max_tokens: MAX_TOKENS,

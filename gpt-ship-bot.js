@@ -11,7 +11,7 @@ import { systemPrompt } from './systemPrompt.js';
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const CUSTOM_GPT_ID = process.env.CUSTOM_GPT_ID;
-const TEMPERATURE = process.env.TEMPERATURE;
+const TEMPERATURE = parseFloat(process.env.TEMPERATURE || 0.7);
 const MAX_TOKENS = parseInt(process.env.MAX_TOKENS, 10) || 2000;
 const GPT_MODEL_ID = process.env.GPT_MODEL_ID;
 

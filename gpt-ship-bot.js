@@ -11,7 +11,7 @@ import { systemPrompt } from './systemPrompt.js';
 const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const CUSTOM_GPT_ID = process.env.CUSTOM_GPT_ID;
-const TEMPERATURE = parseFloat(process.env.TEMPERATURE || "0.7");
+const TEMPERATURE = parseFloat(process.env.TEMPERATURE || 0.7);
 const MAX_TOKENS = parseInt(process.env.MAX_TOKENS, 10) || 2000;
 const GPT_MODEL_ID = process.env.GPT_MODEL_ID;
 
@@ -34,11 +34,16 @@ const openai = new OpenAI({
 let loreFiles = {};
 
 async function loadLoreFiles() {
-  loreFiles.sessionLogs = await fs.readFile('./SessionLogs.md', 'utf8');
-  loreFiles.instructions = await fs.readFile('./Instructions.md', 'utf8');
-  loreFiles.locations = await fs.readFile('./Locations.md', 'utf8');
-  loreFiles.calendar = await fs.readFile('./Calendar.md', 'utf8');
+  //loreFiles.sessionLogs = await fs.readFile('./lore/SessionLogs.md', 'utf8');
+  loreFiles.instructions = await fs.readFile('./lore/Instructions.md', 'utf8');
+  //loreFiles.locations = await fs.readFile('./lore/Locations.md', 'utf8');
+  //loreFiles.calendar = await fs.readFile('./lore/Calendar.md', 'utf8');
 }
+
+import { loadLore, getSimilarLore, getInlineLore } from './rag.js';
+
+await loadLore();
+console.log('✅ lore loaded into RAG system');
 
 //const COMMAND_REGEX = /\{(.+?)\}\s*asks\s+(the ship|Aspalex|Akaanvaerd|Kalavanjert)[:,]?\s*(.+)/i;
 
@@ -97,9 +102,14 @@ To show this again, type \`!shiphelp\`.
     prompt += ` (Answer as ${preferredPersona})`;
   } */
   
+  const inline = getInlineLore();
+  const chunks = await getSimilarLore(content);
+  const context = `${inline}\n\n${chunks.join('\n\n')}`;
+  
   const chatHistory = [
     { role: 'system', content: systemPrompt },
-    { role: 'system', content: `CAMPAIGN KNOWLEDGE:\n${loreFiles.instructions}\n\n${loreFiles.sessionLogs}\n\n${loreFiles.locations}\n\n${loreFiles.calendar}` },
+    //{ role: 'system', content: `CAMPAIGN KNOWLEDGE:\n${loreFiles.instructions}\n\n${loreFiles.sessionLogs}\n\n${loreFiles.locations}\n\n${loreFiles.calendar}` },
+    { role: 'system', content: `CAMPAIGN KNOWLEDGE:\n${loreFiles.instructions}\n\n${context}` },
     { role: 'user', content: content }
   ];
 

@@ -103,7 +103,7 @@ To show this again, type \`!shiphelp\`.
   } */
   
   const inline = getInlineLore();
-  const chunks = await getSimilarLore(userInput);
+  const chunks = await getSimilarLore(content);
   const context = `${inline}\n\n${chunks.join('\n\n')}`;
   
   const chatHistory = [

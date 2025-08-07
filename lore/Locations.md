@@ -38,17 +38,17 @@ Starting point of campaign.
 
 PCs:
 
-·      Sir Aesir (Erevan Mystralath)– LN drow Battlemaster. Soldier from House Avelar in the Underdark. Followers: warhorse Kyote, wolf pup Scratch and squire Donald.
+·      Sir Aesir (Erevan Mystralath)
 
-·      Sir Varis, Aasimar Moon Circle druid. Outlander raised by wolves, wary, naturalist. Followers: warhorse Dogg and squire Snoop. Patron Lily Verdant, angel and protector of nature.
+·      Sir Varis
 
-·      Tentacion, Tiefling Fiend Pact of the Chain Warlock. Acolyte.
+·      Tentacion
 
-·      Tabacco. NE Tabaxi Wizard, criminal.
+·      Tabacco. 
 
 Notable NPCs:
 
-·      Sir Salmur “Loper” Kalfrex, Knight of Bahamut, Angel of Death. original and longest serving party member. LG Silver Dragonborn Oath of Vengeance paladin, ex Greymoor army soldier, and overly insistent evangelist of Bahamut, sworn to an oath of vengeance on those who slaughtered his tiefling adoptive parents. Unfamiliar with Dragonborn customs and history, most comfortable speaking Infernal. Direct, wary, judgemental, defender of the weak and the greater good. Followers: Wolf pup “Baha”, warhorse “Krex” and squire Fen of Weyrhold. Secrets: How Salmur arrived here from Greymoor (Faerun), his previous adventures and how he came to be twice orphaned is not known.
+·      Sir Salmur “Loper” Kalfrex
 
 ·      Trader Joff – Mayor and Sheriff (“merriff”)
 
@@ -104,39 +104,39 @@ Frozen Toe Pass – high altitude trail over a saddle between two mountains lead
 
 PCs
 
-·      Sir Big Toe – NE Green Dragonborn rogue, criminal and dice sharp. Followers: warhorse Im and squire Sorry.
+·      Sir Big Toe
 
-·      Sir Draco the Eternal Blade. CN Human Fighter. Soldier, idealistic animal lover and treasure obsessee.
+·      Sir Draco the Eternal Blade
 
-·      Virtue (Virtu), Angel of Death. LG Tiefling Celestial Pact of the Chain Warlock. Folk hero. Followers: warhorse Temperance, squire Stu, pseudo dragon familiar “Deesix” and Nightmare Bucephalus.
+·      Virtue (Virtu)
 
-·      Teririst (Terrist, Tempist), Angel of Death – CN Tabaxi Arcane Trickster Rogue. Greedy, daring, power and money hungry, highly intelligent yet unwise, sharpshooter. Followers: Nightmare “Smoky Joe”, Fire snake familiar “Sizzles”. Broken pact with Vecna via a Tome of the Stilled Tongue, brief wearer of the Helm of Halva. Wielder of the Luck Blade.
+·      Teririst (Terrist, Tempist), 
 
-·      Jeff – Tiefling College of Lore bard. Entertainer, traditional, sharp-tongued jester, jack of all trades, font of inspiration, hopeless romantic, sucker for a pretty face and songwriter. Famous for the unintentionally humorous “Quest for the Dragon of Lightning Falls” song for the ages and popular war anthem “Victory, Victory, Victory” and player of an Anstruth harp.
+·      Jeff 
 
-·      Kira – LG Elf Vow of Enmity Paladin. Multiple holy symbols, friendly, naïve yet relentlessly vengeful if crossed.
+·      Kira
 
-·      John – Moon Circle Druid. Patron Twenzel Farsight.
+·      John 
 
-·      Leon, Angel of Death. Paladin of Torm. Followers: warhorse Tempesta, Nightmare “White Socks” and squire Zak. Formerly attuned wearer of the sentient Helm of Halva and had his personality briefly co-opted by Lord Halva. Wielder of the Dread Star, questing for a Holy Avenger. Foreseen to help a devil into heaven by a blind mystic.
+·      Leon
 
-·      Thoric, Hammer of Moradin, Angel of Death. Followers, warhorse Phobos, squire Deimos and Nightmare “Red Lightning”. Currently wearing a Belt of Storm Giant Strength.
+·      Thoric
 
-·      Aarg (Aargh) Gnollslayer, Angel of Death. CN Goliath Barbarian. Followers: warhorse Elk and squire Squid. Patron Amarok. A scallywag who adores Elk. Currently wielding a Sceptre of Imix.
+·      Aarg (Aargh) Gnollslayer
 
-·      Ellis Sein, CN Human wild magic sorcerer. Noble, vindictive, power hungry, vain, defiant, seeking approval of her family. Patron Mayber von Tollant.
+·      Ellis Sein
 
 Notable NPCs
 
 ·      Lord Meith – Ruler of Weyrhold
 
-·      Emmersatz - a LE blue dragon known to masquerade as a drow rogue in blue scale mail. Opportunist, exploiter of legal loopholes, aloof, introverted, enchanter and collector.
+·      Emmersatz
 
 ·      Aunty Agatha. Bheur hag masquerading as a hermit who abducted children.
 
 ·      Sippervetak – a CN red dragon known to masquerade as a human drill sergeant in red scale mail. Lives for war and training warriors, fearless. Visiting to ready Weyrhold army against Tabaxi invasion. Trains whole party here in Mounted Combatant feat.
 
-·      Sir Aplex Tarrant – Githyanki Knight, Angel of Death, long serving party member. Searching for a way into the Underdark, following Aesir for this purpose. Very protective and proud of the astral skiff Aspalex/Akaanvaerd and distrustful of githzerai crew. Visceral hate of mindflayers. Followers: warhorse Sepulchre, squire Ritt. Secretly seeking vengeance on mindflayers who destroyed the crèche he was guarding, and does not want to return home to Tu’narath or consider himself worthy to face his lich-queen Vlaakith until he has.
+·      Sir Aplex Tarrant
 
 ·      Millie Eyelash and Jimmy Recard, kids saved by the party from Aunty Agatha. Secret: Overheard Virtu’s confession of Tentacion’s “death”.
 
@@ -152,7 +152,7 @@ Eastern border castle of Corus Vale. The nearby region is also known for being t
 
 PCs
 
-·      Original home of Dug Ironstone Battletractor, son of Dismolf Ironstone Battletractor. Wild Dwarf Battlerager. Patron Thard Harr the Disentangler who holds long beards sacred. Interested in history, rampaging and pillaging.
+·      Original home of Dug Ironstone Battletractor
 
 NPCs
 
@@ -306,7 +306,7 @@ PCs:
 
 ·      Xaderos (Xad). Githyanki airship pilot
 
-·      Thorian (Thorion), CN Eldritch Knight High Elf noble outcast marooned by an unscrupulous ship captain. Loyal, independent, slightly paranoid and quick to anger. Patron “Beezleron” is possibly a fiend.
+·      Thorian (Thorion)
 
 NPCs:
 
@@ -430,7 +430,7 @@ The party have cleared the first level, although the walls and platforms can be 
 
 PC:
 
-·      Farlian, githzerai ranger. Sharp eyed lookout, hermit, explorer and marksman. Former Goldspire “research assistant” whose mini-gate dropping party all died here leaving him trapped.
+·      Farlian
 
 NPCs:
 
@@ -510,7 +510,7 @@ The demons were routed, Demogorgon himself killed, and the gate sealed, revealin
 
 PC:
 
-·      Sycamore (The Silly), LN War-forged sorcerer, acolyte of Goldspire. Wooden construct. Protective of trees, sylphs and the displaced.
+·      Sycamore (The Silly)
 
 NPCs:
 
@@ -664,7 +664,7 @@ NPCs:
 
 ·      Dalia Amak. LE Efreeta Sorcerer, infatuated with Leon. Wife of Miraz.
 
-·      Miraz (Mariz) :Amak. LE Efreeti Court physician, nightmare breeder, minor noble.
+·      Miraz (Mariz) Amak. LE Efreeti Court physician, nightmare breeder, minor noble.
 
 ·      Shireen Amak. NE Efreeta wife of Miraz, likes to appear as an elf.
 

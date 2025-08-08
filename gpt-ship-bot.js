@@ -76,7 +76,7 @@ To ask a question, use this format:
 \`\`\`
 
 Example:
-- \`{Leon} asks the ship: What do the efreet think of us?\`
+- \`Leon asks the ship what the efreet think of us?\`
 
 Only characters known to the ship will be answered. Stay in-world. No metagame questions allowed.
 
@@ -135,7 +135,7 @@ To show this again, type \`!shiphelp\`.
 
   } catch (err) {
     console.error('❌ GPT or API error:', err);
-    await message.reply('⚠️ The ship shudders, complains about bugs its logs and falls silent. Something is wrong.');
+    await message.reply('⚠️ The ship shudders, complains about worms its beams, maybe bugs its logs and falls silent. Something is wrong.');
   }
 });
 

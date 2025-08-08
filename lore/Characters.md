@@ -13,11 +13,11 @@ NE Green Dragonborn rogue, criminal and dice sharp. Followers: warhorse Im and s
 ## Sir Draco the Eternal Blade. 
 CN Human Fighter. Soldier, idealistic animal lover and treasure obsessee.
 
-## Virtue (Virtu)
+## Virtue (aka Virtu)
 Angel of Death. LG Tiefling Celestial Pact of the Chain Warlock. Folk hero. Followers: warhorse Temperance, squire Stu, pseudo dragon familiar “Deesix” and Nightmare Bucephalus.
 Patron: the Ki’rin, Ameranth of Cloudmother
 
-## Teririst (Terrist, Tempist)
+## Teririst (aka Terrist, Tempist)
 Angel of Death – CN Tabaxi Arcane Trickster Rogue. Greedy, daring, power and money hungry, highly intelligent yet unwise, sharpshooter. Followers: Nightmare “Smoky Joe”, Fire snake familiar “Sizzles”. Brief wearer of the Helm of Halva. Wielder of the Luck Blade.
 Patron: Vecna, via the Tome of the Stilled Tongue. Having broken this compact, Teririst is now actively pursued by Vecna’s minions.
 
@@ -39,7 +39,7 @@ Dwarf Forge Cleric
 Hammer of Moradin, Angel of Death. Followers, warhorse Phobos, squire Deimos and Nightmare “Red Lightning”. Currently wearing a Belt of Storm Giant Strength.
 Patron: Moradin
 
-## Aarg (Aargh) Gnollslayer
+## Aarg (aka Aargh) Gnollslayer
 Angel of Death. CN Goliath Barbarian. Followers: warhorse Elk and squire Squid. Patron Amarok. A scallywag who adores Elk. Currently wielding a Sceptre of Imix.
 
 ##  Ellis Sein
@@ -73,7 +73,7 @@ Tiefling Fiend Pact of the Chain Warlock. Acolyte.
 ## Tabacco
 NN Tabaxi Wizard, criminal
 
-## Thorian (Thorion), 
+## Thorian (aka Thorion), 
 CN Eldritch Knight High Elf noble outcast marooned by an unscrupulous ship captain. Loyal, independent, slightly paranoid and quick to anger. Patron “Beezleron” is possibly a fiend.
 
 
@@ -135,7 +135,7 @@ cleric and settler, originally from Blue Sky Mine
 ### Evin Giltall
 LG human knight. Engaged the party to rescue his uncle Theldin.
 
- ### Theldin Giltall
+### Theldin Giltall
  LN human smith, uncle of Evin. Kidnapped by Brimskarda and rescued by the party.
 
 ### Hibiliminance (Hibby)
@@ -153,7 +153,7 @@ LE Narzugon (Hell Knight) baatezu. Loyal follower of Gargepore, also with no oth
 ### Dalia Amak
 LE Efreeta Sorcerer, infatuated with Leon. Wife of Miraz.
 
- ### Miraz (Mariz) Amak
+### Miraz (Mariz) Amak
  LE Efreeti Court physician, nightmare breeder, minor noble.
 
 ## The Demonbane Lauth:

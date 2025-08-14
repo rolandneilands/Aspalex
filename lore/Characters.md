@@ -139,7 +139,7 @@ LG human knight. Engaged the party to rescue his uncle Theldin.
  LN human smith, uncle of Evin. Kidnapped by Brimskarda and rescued by the party.
 
 ### Hibiliminance (Hibby)
-A caged pixie freed by the party at the Sultan’s feast and the blame pinned on suspected assassin Nemoa Archer. Original a gift to the Sultan from a Feywild ambassador. Impetuous, young, naïve and carefree with no memory of her home (secret: “Greenville”). Unwilling to stay in hiding despite risk of discovery to all, has a shine for joining Virtu in glassblowing and Leon in cavalry and lance charging.
+A caged pixie freed by the party at the Sultan’s feast with the blame pinned on suspected assassin Nemoa Archer. Originally a gift to the Sultan from a Feywild ambassador. Impetuous, young, naïve and carefree with no memory of her home (secret: “Greenville”). Unwilling to stay in hiding despite risk of discovery to all, has a shine for joining Virtu in glassblowing and Leon in cavalry and lance charging.
 
 ### Jamina al Mubarak al Kamal
 LE Fire Evoker efreeta. Fire polo referee, atelier, engineer and inventor.
@@ -159,9 +159,9 @@ LE Efreeta Sorcerer, infatuated with Leon. Wife of Miraz.
 ## The Demonbane Lauth:
 A lauth is a temporary dragon alliance
 ### Felparizin
-LE Ancient Red Dragon. Is nearly killed by several Balor in the gate sealing defense, then grabbing a Balor (named Swinch), ripped his own chest open and fused the demon into his heart, ascending to a Greatwyrm in the process. Immediately after this he fused another Balor (named Kalavanjert) with Aspalex to reanimate and fuse Akaanvaerd into one liveship.
+LE Ancient Red Dragon. Was nearly killed by several Balor in the gate sealing defense at the Battle of the Vent, then grabbing a Balor (named Swinch), ripped his own chest open and fused the demon into his heart, ascending to a Greatwyrm in the process. Immediately after this he fused another Balor (named Kalavanjert) with Aspalex to reanimate and fuse Akaanvaerd into one liveship.
 ### Feldspar, (Felspar) 
-Adult Emerald Dragon
+Adult Emerald Dragon, with a lair in Fort Fair in the Cinder Wastes near the City of Brass.
 ### Apstakformin
 Adult Sapphire Dragon
 ### Aspalex/Akaanvaerd and crew together 
@@ -171,12 +171,13 @@ are considered equal to a dragons share in the lauth and any loot.
 # Antagonists 
 Powerful enemies 
 ## Vecna
-Ancient lich
+Ancient lich and God of Secrets, known to have created several powerful artefacts: The Eye of Vecna, The Hand of Vecna, and the Tomes of the Stilled Tongue. The party have found two copies of the Tome, of only a handful in existence. Famously in a rivalry with his ex-lieutenant Kas, wielder of a legendary sword.
 
 ## Imix
-Demon prince of evil fire
+Demon prince of elemental evil fire.
 
 ## Demogorgon 
-Prince of Demons, the Sibilant Beast and Master of the Spiralling Depths. Known to lair in the Gaping Maw layer of the Abyss – this is most likely where the Vent portal led. Killed and his army routed by the combined defending forces in the B. Will resurrect on his home plane and now knows the party by sight as mortal enemies.
+Prince of Demons, the Sibilant Beast and Master of the Spiralling Depths. Known to lair in the Gaping Maw layer of the Abyss – this is most likely where the Vent portal led. Killed and his army routed by the combined Plane of Fire defending forces in the Battle of the Vent. Will resurrect on his home plane and now knows the party by sight as mortal enemies.
 
 ## Surtr
+Fire giant god. A Cradle of Surtr was found under the now closed portal at the bottom of the Vent, which was revealed to be an active volcano.

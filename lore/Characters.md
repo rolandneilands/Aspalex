@@ -82,7 +82,7 @@ Key compatriots and patrons
 
 ## Aplex Tarrant
 Githyanki Knight
-Knight of Weyrhold, Angel of Death, long serving party member. Searching for a way into the Underdark, following Aesir for this purpose. Very protective and proud of the astral skiff Aspalex/Akaanvaerd and distrustful of githzerai crew. Visceral hate of mindflayers. Followers: warhorse Sepulchre, squire Ritt. Secretly seeking vengeance on mindflayers who destroyed the crèche he was guarding, and does not want to return home to Tu’narath or consider himself worthy to face his lich-queen Vlaakith until he has.
+Knight of Weyrhold, Angel of Death, long serving party member. Searching for a way into the Underdark, following Aesir for this purpose. Very protective and proud of the astral skiff Aspalex/Akaanvaerd and distrustful of githzerai crew. Visceral hate of mindflayers. Followers: warhorse Sepulchre, squire Ritt. Seeking vengeance on mindflayers who destroyed the crèche he was guarding, and does not want to return home to Tu’narath or consider himself worthy to face his lich-queen Vlaakith until he has.
 
 ### Zeb 
 A ranger, wielding and advised by Rebolon the Swearing Sword, a sentient longsword inhabited by a foul-mouthed army knight-captain who crossed the wrong necromancer. Rebolon is an excellent military tactician, can fight independently and gains power with kills and battles.
@@ -100,7 +100,7 @@ NG human monk lvl 17. Trainer of Aeris.
 LG Ki’rin with a lair at the peak of Cloudmother. Patron to Virtu
 
 ### Mayber von Tollant
-LN Gnome wizard. Leader of Goldspire, likes researching spells and artifacts. Often a source of clues and is always willing to trade for knowledge. Prefers to recruit research assistants who can train each other with minimal supervision. Secrets: reading the Tome of the Stilled Tongue previously used by Teririst and won’t admit it, and has a clue to the location of the Red Claw.
+LN Gnome wizard. Leader of Goldspire, likes researching spells and artifacts. Often a source of clues and is always willing to trade for knowledge. Prefers to recruit research assistants who can train each other with minimal supervision. 
 
 ### Wixalixa
 Dragon Turtle who kindly gave the party a ride and defeated a kraken with the parties help. Likes stories and getting debarnacled.
@@ -139,7 +139,7 @@ LG human knight. Engaged the party to rescue his uncle Theldin.
  LN human smith, uncle of Evin. Kidnapped by Brimskarda and rescued by the party.
 
 ### Hibiliminance (Hibby)
-A caged pixie freed by the party at the Sultan’s feast with the blame pinned on suspected assassin Nemoa Archer. Originally a gift to the Sultan from a Feywild ambassador. Impetuous, young, naïve and carefree with no memory of her home (secret: “Greenville”). Unwilling to stay in hiding despite risk of discovery to all, has a shine for joining Virtu in glassblowing and Leon in cavalry and lance charging.
+A caged pixie freed by the party at the Sultan’s feast and the blame pinned on suspected assassin Nemoa Archer. Original a gift to the Sultan from a Feywild ambassador. Impetuous, young, naïve and carefree with no memory of her home. Unwilling to stay in hiding despite risk of discovery to all, has a shine for joining Virtu in glassblowing and Leon in cavalry and lance charging.
 
 ### Jamina al Mubarak al Kamal
 LE Fire Evoker efreeta. Fire polo referee, atelier, engineer and inventor.

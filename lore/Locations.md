@@ -12,7 +12,7 @@ Corus River delta – key trade port. Guarded by lighthouse outposts Pilot Point
 
 Notable NPCs:
 
-·      The Collector (heard of, not yet met). Banker, travel concierge. Hoarder of fine art and boats. Secrets: a lich and bootlegger, has dealings with the Xanathar, has clues to the Cup of Clear’s location.
+·      The Collector (heard of, not yet met). Banker, travel concierge. Hoarder of fine art and boats. 
 
 ·      King Kell (Kellernone III Lapin of Corus Vale). NG human, distracted and harried by war on two, possibly soon three sides. Warrior, delegator. Secretly concerned for succession, wanting his children to prove themselves.
 
@@ -22,13 +22,13 @@ Notable NPCs:
 
 ·      Princess Locene (Lamita). Daughter of Kell and Varanthe. NG human, aspiring to be a cleric. Wants to outdo her brothers.
 
-·      Zeb, CG human ranger lvl 5. Wants to explore. Current wielder of Rebelon, the Swearing Sword, which the party helped him acquire. Secretly Prince Xelecte, youngest son of Kell and Varanthe.
+·      Zeb, CG human ranger lvl 5. Wants to explore. Current wielder of Rebelon, the Swearing Sword, which the party helped him acquire. 
 
 ·      Lord Valleston, leader of Fort Warning and the Corus Vale navy.
 
 ·      “The Night Mother”, rumoured head of the thieves guild. LE. Secret: actual identity is unknown to all except their deputy.
 
-·      Hinglebert. LG Middle aged bourgeoisie dilletante wearing gold silks. Talkative, gourmand and high arts patron. Secretly a gold dragon, wants his clan to grow peacefully, eats the occasional burglar.
+·      Hinglebert. LG Middle aged bourgeoisie dilletante wearing gold silks. Talkative, gourmand and high arts patron. 
 
 The Crossing
 
@@ -70,9 +70,6 @@ Notable NPCs:
 
 ·      Pixie:  Itz, Bitz, Litz and Mitz
 
-Secrets:
-
-·      There is a portal to the Infinite Staircase in the inn.
 
 Summerhaim
 
@@ -138,7 +135,7 @@ Notable NPCs
 
 ·      Sir Aplex Tarrant
 
-·      Millie Eyelash and Jimmy Recard, kids saved by the party from Aunty Agatha. Secret: Overheard Virtu’s confession of Tentacion’s “death”.
+·      Millie Eyelash and Jimmy Recard, kids saved by the party from Aunty Agatha. 
 
 ·      Billy Eyelash mother of Millie
 
@@ -194,7 +191,7 @@ Site of multiple temporary gates and portals to the elemental planes, and a stag
 
 Notable NPCs:
 
-·      Mayber von Tollant. LN Gnome wizard. Leader of Goldspire, likes researching spells and artifacts. Often a source of clues and is always willing to trade for knowledge. Prefers to recruit research assistants who can train each other with minimal supervision. Secrets: reading the Tome of the Stilled Tongue previously used by Teririst and won’t admit it, and has a clue to the location of the Red Claw.
+·      Mayber von Tollant. LN Gnome wizard. Leader of Goldspire, likes researching spells and artifacts. Often a source of clues and is always willing to trade for knowledge. Prefers to recruit research assistants who can train each other with minimal supervision. 
 
 ·      Allemande du Khamis. Evoker. Earth quadrant deputy.
 
@@ -202,11 +199,11 @@ Notable NPCs:
 
 ·      Figon Sams. Evoker. Water elemental magic quadrant deputy.
 
-·      Spinch Mettis. Evoker. Fire quadrant deputy. Secretly reading the second Tome of the Stilled Tongue. Mayber and Spinch don’t know the other is also doing this.
+·      Spinch Mettis. Evoker. Fire quadrant deputy. 
 
 The Plunge
 
-Enormous round chasm deep in the Greenwald, somewhere between the Dolmen Ring and Spetzstok. Not yet visited by the party. Secretly an entrance to the Underdark.
+Enormous round chasm deep in the Greenwald, somewhere between the Dolmen Ring and Spetzstok. Not yet visited by the party. 
 
 PCs:
 
@@ -214,13 +211,7 @@ PCs:
 
 NPCs:
 
-·      Spilnok Asterath, NE dark elf. Searching for an artefact, secretly scouting in advance of a drow invasion.
-
-·      Secret lair of Sapzelnon may be near here.
-
-·      Secret location of the desecrated Githyanki crèche guarded by Aplex is in the mountains nearby between here and Cloudmother, and a days march to the east.
-
-·      Secret lair of Kalefrenzich in the mountains nearby, a CG silver dragon.
+·      Spilnok Asterath, NE dark elf. Searching for an artefact.
 
 Dolmen Ring
 
@@ -228,7 +219,7 @@ Druidic stone Circle of the Moon in the Greenwald. Not yet visited by the party.
 
 NPCs:
 
-·      Twenzel Farsight, Druid circle leader. Aiming for symbiosis with nature, knowledge keeper of the Great Rituals. Secrets: these rituals can teleport or create gates to the Feywild, The Outlands, Arcadia, The Beastlands, Arborea and Mt Celestia.
+·      Twenzel Farsight, Druid circle leader. Aiming for symbiosis with nature, knowledge keeper of the Great Rituals. 
 
 ·      Molybkelub. CG copper dragon. Playful and pixie-like with a short attention span.
 
@@ -250,7 +241,7 @@ NPCs:
 
 ·      Respik, kobold war chief
 
-·      Secret lair nearby of Gottliev, CN dwarf were-wolverine. Searching for a lycanthropy cure, but also building an army of lycanthropes.
+·      Gottliev, CN dwarf. Researching disease cures and quietly recruiting.
 
 Great Sand
 
@@ -292,7 +283,7 @@ PC:
 
 NPCs:
 
-·      Atron, Principal of the new Atron’s Wizardry School for the Highly Intelligent, “Inspiring creative and influential drow”. Secretly a mindflayer base, searching for Githyanki and researching nautiloid plane-ships and advanced weapons.
+·      Atron, Principal of the new Atron’s Wizardry School for the Highly Intelligent, “Inspiring creative and influential drow”. 
 
 Plane of Air
 
@@ -436,7 +427,7 @@ NPCs:
 
 ·      Aram
 
-·      Unknown owner of a 4’ gold tooth found and melted down by the party. Secret: this was Waukeen’s tooth.
+·      Unknown owner of a 4’ gold tooth found and melted down by the party. 
 
 ·      Unnamed Archmage and apprentice battled and subdued, mercy given. Aware and terrified of Vecna’s tome.
 
@@ -494,7 +485,7 @@ NPCs:
 
 ·      Zohelm, LE Fire Giant of Evil Fire. Sister of Brimskarda, killed by the party during liberation of Starforge. Aargh now wields her Sceptre of Imix.
 
-·      Akaanvaerd. LE Red Dragon. Laired under the Starforge and driven out by Brimskarda and her clan. In attempting to recapture Starforge, briefly allied with the party before breaking his word on underestimating and disbelieving the party. Killed at Starforge, and his scales and wings used to fireproof the airship Aspalex. Later reanimated and permanently melded into Aspalex by Felparizin, and bound to 10yrs service. Secret: now a dracolich.
+·      Akaanvaerd. LE Red Dragon. Laired under the Starforge and driven out by Brimskarda and her clan. In attempting to recapture Starforge, briefly allied with the party before breaking his word on underestimating and disbelieving the party. Killed at Starforge, and his scales and wings used to fireproof the airship Aspalex. Later reanimated and permanently melded into Aspalex by Felparizin, and bound to 10yrs service. 
 
 ·      Ephlon, young red dragon. Son of Akaanvaerd. Now dead after attempting revenge in the Cinderwastes.
 
@@ -826,7 +817,7 @@ NPCs:
 
 ·      Sazerac. LE devil. Baatezu emissary. Paeliryon. Reports to Furcas of the Ministry of Mortal Relations. Insightful independent observer and keen political strategist. Openly trying to recruit the party or trade for secrets, favours or more. Vying with Umonth for influence at court.
 
-·      Alirya LE devil. Baatezu emissary. Erinyes. Seductress and influence seeker. Secretly has a child with a minor noble hidden in the city.
+·      Alirya LE devil. Baatezu emissary. Erinyes. Seductress and influence seeker. 
 
 ·      Umonth Trapper represents yugoloth interests and has gained favour with timely support in the Battle of the Vent.
 
@@ -906,7 +897,7 @@ o   Wuzurgan (Centurion, or section leader):
 
 §  Maelo Musego. Storm-phobe.
 
-§  Oosmerf Deer. Lip-biter. Secretly a cultist of Vecna.
+§  Oosmerf Deer. Lip-biter. 
 
 §  Toalo Rakesh. Has pica.
 

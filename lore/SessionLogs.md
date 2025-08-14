@@ -18,12 +18,6 @@ Introduction: Started in small trading post known as The Crossing. 
 
 Aesir & Aeris met NPC Salmur Kalfrex (an overly evangelical dragonborn paladin) in the tavern (owned by Bunt) who was fighting in bout organised by Jolly Jon.
 
-|   |   |
-|---|---|
-||   |
-|||
-
-  
 
 After they rescued local girl Vella from some pixies the party were offered permanent residence with her mother the local washerwoman Gemma, who took particular efforts cleaning Aeris (who possibly may not have bathed in years).
 
@@ -173,13 +167,7 @@ Session 8
 
 Leon dreams of a blue dragon playing chess against a red dragon over a board with human and Tabaxi pieces.
 
-|   |   |
-|---|---|
-||   |
-|||
-
   
-
 Goldspire:
 
 The party decide to travel to Goldspire to answer the call for "research assistants". Goldspire is surrounded by large amounts of the 4 elements; earth, air, fire and water and some mixtures of these. They have a Master of each element, with a number of acolytes, all led by Mayber Von Tollant.
@@ -236,11 +224,6 @@ Session 11
 
 The party feast on cartwheel sized calamari, as does Wixalixa and a surprisingly orderly queue of sharks. They collect some ink via minigate and the beak. 
 
-|   |   |
-|---|---|
-||   |
-|||
-
   
 Above them an airship spirals out of control, attacked by three green dragons. A red dragon ridden by a githyanki desperately defends it as it crashes down behind a nearby island. Investigation shows it capsized with no survivors, other than a githyanki pilot called Xad. The red dragon Exaroff and one green dragon also died in the raid, leaving two greens unaccounted for. Xad recounts being chased by the greens through several more planar gates than the astral skiff could sustain, burning out its gate engine. The skiff Aspalex has a nautiloid sentience which is thrashing in pain, mast augured into the mud with massive damage. Xad, Thoric and Aplex calm it down and begin healing/repairing. They persuade Wixalixa to pull the mast out of the muddy seafloor and right the ship in exchange for a story. Xad describes his narrow escape from the green dragons, and Aplex his final day as a creche guard being overrun by mindflayers.
 
@@ -256,12 +239,6 @@ An outcast high elf named Thorion, marooned on the plane of water and getting si
 
 Date X+52
 
-|   |   |
-|---|---|
-||   |
-|||
-
-  
 
 Session 13
 
@@ -285,12 +262,6 @@ Date X+54
 
 The party rest back at the City of Gems, and return to the Dismal Delve, meeting a Guardian Naga and a quiet mage leaving the Delve carrying a sack. They turn out to be friendly, and their names are Acapul Coranes and Semo Pharo. Acapul helpfully suggests banishing his evil relative in the oubliette, which Virtu does, luckily with no resistance. The returning pair also share a partial map copy of the Sevenfold Mazework. The party explore the Delve further, avoiding traps, locks and excavating their way into a secret room to take out another Elder Oblex without a scratch (well, 1 self-inflicted burn), leaving a knife and a statue of Leon behind them. They cleverly bypass a chasm using the portal and enter the Sevenfold Mazework, with no plan on how to return …
 
-|   |   |
-|---|---|
-||   |
-|||
-
-  
 
 Session 15
 
@@ -334,10 +305,6 @@ As a gate from Goldspire closes after Teririst rejoin the party a hermit Gith ru
 
 The party figure out how to operate the Apparatus of Kwalish, but not how to get it across the chasms of the Sevenfold Mazework. They leave it and move to the large gold tooth. Thoric melts it to reforge into 17 large gold bars. Aram assists with carrying it all back to the start of the Delve, where he asks for his share, taking the strange bronze coins, and parts ways with our heroes on good terms.
 
-|   |   |
-|---|---|
-||   |
-|||
 
 Returning to the City of Gems the party negotiate the construction of the 3 Leyden crystals with Tren Coldlight of the Svirfneblin and spend the two weeks they take retrieving the Apparatus of Kwalish with a hired mage then studying the tomes they’ve found. 
 
@@ -417,12 +384,6 @@ Once their work and training is complete the party head off for the City of Bras
 
 Date X+85
 
-|   |   |
-|---|---|
-||   |
-|||
-
-  
 
 Session 23
 
@@ -514,11 +475,6 @@ A red dragon is seen matching their speed and course off high to the west. Thori
 
 Riding on through cinderstorms the party make camp without noticing they were on an ancient cairn, being ambushed at night by wraiths, spectres and shadows, who drain Ellis, Teririst, Virtu and two efreet before they are sent to eternal rest.
 
-|   |   |
-|---|---|
-||   |
-|||
-
   
 One tent is torn through by a nightmare chasing a wraith, and one wraith was turned by Thoric to be hopefully finished by the army. Flying on through cinderstorms only minor skirmishes occur. Thoric offers hero's feasts to various allies and makes the dragon a silver claw ring, as the party admit to previous encounters with red dragons, tempering his attitude to the party while not breaking the agreement. Leon comments to Felparizin: "You're the second dragon we've dined with in a week". Dahlia is impressed with Leon approaching the dragon.
 
@@ -566,10 +522,6 @@ Thoric uses his Cape of the Mountebank to escape the fall, back to Red Lightning
 
 The party take stock after 6 hours into the day long ritual, wondering how to last through another 18 hours of this
 
-|   |   |
-|---|---|
-||   |
-|||
 
  …
 
@@ -610,11 +562,6 @@ The Vrock eventually fall after a long battle and the party take a short rest wi
 Felparizin finishes off a Balor with teeth and claws, which explodes in a fiery ball the dragon ignores like a cool breeze. The other Balor whip his front leg aside and carve a sword right through the dragon’s chest.
 
 Flashes of fiery light beat out of the dragon's chest. Leon and Aargh charge in on nightmare-back and lay into the Balor, with Farlian providing supporting fire. The Balor are not to be distracted from their gargantuan victim so close to victory though. 
-
-|   |   |
-|---|---|
-||   |
-|||
 
   
 Felparizin lunges with a free claw and grabs a Balor like a toy, then begins to squeeze and mouth a chant in draconian. The Balor begins shrink in an oddly distorted way, turning into a ball of pulsing sickly energy and demonic flesh. Felparizin grasps his own torn rib cage and opens it with the other claw with all nearby staring, shocked into a fascinated trance. He shoves the demonic energy ball into his own heart, and is suddenly infused with the dark fiery energy, healing and growing even larger than before. Felparizin was the biggest dragon all present had ever seen, but now he had found a way to ascend and grow even further into chromatic greatwym, surging with streams of fire.
@@ -763,11 +710,6 @@ Thoric’s gift of the sword made of the chain that sealed the Vent gate is very
 
 A grizzled efreet veteran offers to adjust their impressive looking new black, red & gold armour to fit and so the sharp flamelike curlique spauldrons don’t stab them in the armpits. He also gives advice on weaponry stores when asked and introduces himself as Exounth Ironhide after telling them about his possibly wise disaster preparation efforts.
 
-|   |   |
-|---|---|
-||   |
-|||
-
   
 The party leave the stifling heat of the Charcoal Palace, making their way past the Breath of the Sultan, the giant purple flame fountain marking the fact that the Sultan lives.
 
@@ -915,11 +857,6 @@ Krechu Brickbridge the quartermaster efficiently fills out forms in triplicate o
 
 Lances are found and ordered, but longbows are an uncommon request and not available from the efreet smiths. 
 
-|   |   |
-|---|---|
-||   |
-|||
-
   
 The party visit Jemina’s workshop, who is pleased to give them a tour of what might be a red kobolds fantasyland - intricate clockwork birds and magical devices of flame, metal and obscure function.
 
@@ -953,10 +890,6 @@ A little later, as the party and crew clean up and prepare for the day, knocking
 
 She also offers to help build their iron golem from its tome but claims no skill or interest in the clay or stone ones.
 
-|   |   |
-|---|---|
-||   |
-|||
 
 The party agree to relocation of the ship as a prudent idea and fly it over to Jeminas workshop sending the quartermaster a message of their location for the new ballista delivery. It does not quite fit but Jemina urges them on as the scaled masts and spars clear shelves on both sides clattering assorted bronze and brass equipment to the ground with acolytes racing to pick them up. The great metal doors glide smoothly and silently shut behind them, and the party feel a sense of relief, asking to stay on board ship during the works. Jemina agrees, seeing no need to access the hold. 
 
@@ -995,11 +928,6 @@ Past noon and the party meet Dahlia at the Blue Horse Palazzo, where the fire gi
 The party moves out, guarding their load. Virtu notices they have a tail in the form of three hooded figures and alerts the others.  Leon picks his moment as they round a corner to stride into the Ethereal plane with White Socks, and hangs back to see the misty outlines of their new followers from the parallel plane. They keep their distance right to the workshop, where two of the cloaked figures set up unobtrusive watching positions around a hundred yards away in opposite ends of the street, pretending to look at nearby stalls but not engaging with the merchants.
 
 The Tarrasque hide is unloaded and Thoric asks Jemina to translate for him to resolve the now dead undead horse problem, which the going rate of gold solves to the Azers satisfaction.
-
-|   |   |
-|---|---|
-||   |
-|||
 
   
 The empty wagons are hitched together and move off. As the party move into the workshop, the third cloaked figure moves off, and Leon decides to follow it ethereally. It moves into the Avencina district, through some desperate, dubious and dangerous looking neighbourhoods finally into the Rebel Rubble. Pulling back a broken door reveals a rough tunnel entry into a set of catacombs with mysterious symbols on the walls. Leon starts to take notes of the layout to memory before a very large, tentacled shadow passes overhead, which he is shocked to realise is in the Ethereal plane with him. He convinces White Socks to hide them in a puff of smoke, thankful that they both paid some passing attention to Teririst and Smoky Joe’s practice efforts.
@@ -1045,12 +973,6 @@ Our heroes ponder what to do with a near extinct planar beast of burden, and whe
 The Maidan and the Vent await, Leon itches for a dungeon crawl and Corus Vale remains at war …
 
 Others have darker plans of course.
-
-|   |   |
-|---|---|
-||   |
-|||
-
  
 
 Session 42

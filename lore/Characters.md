@@ -139,7 +139,7 @@ LG human knight. Engaged the party to rescue his uncle Theldin.
  LN human smith, uncle of Evin. Kidnapped by Brimskarda and rescued by the party.
 
 ### Hibiliminance (Hibby)
-A caged pixie freed by the party at the Sultan’s feast and the blame pinned on suspected assassin Nemoa Archer. Original a gift to the Sultan from a Feywild ambassador. Impetuous, young, naïve and carefree with no memory of her home. Unwilling to stay in hiding despite risk of discovery to all, has a shine for joining Virtu in glassblowing and Leon in cavalry and lance charging.
+A caged pixie freed by the party at the Sultan’s feast and the blame pinned on suspected assassin Nemoa Archer. Originally a gift to the Sultan from a Feywild ambassador. Impetuous, young, naïve and carefree with no memory of her home. Unwilling to stay in hiding despite risk of discovery to all, has a shine for joining Virtu in glassblowing and Leon in cavalry and lance charging.
 
 ### Jamina al Mubarak al Kamal
 LE Fire Evoker efreeta. Fire polo referee, atelier, engineer and inventor.

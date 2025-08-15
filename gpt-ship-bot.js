@@ -2,7 +2,7 @@ import { Client, GatewayIntentBits } from 'discord.js';
 import OpenAI from 'openai';
 import fs from 'fs/promises';
 import { systemPrompt } from './systemPrompt.js';
-import { safeSend } from './safeEmbedSend.js';
+import { safeEmbedSend } from './safeEmbedSend.js';
 
 // Commenting out - using Render env vars
 //import { config } from 'dotenv';

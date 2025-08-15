@@ -2,6 +2,7 @@ import { Client, GatewayIntentBits } from 'discord.js';
 import OpenAI from 'openai';
 import fs from 'fs/promises';
 import { systemPrompt } from './systemPrompt.js';
+import { safeSend } from './safeEmbedSend.js';
 
 // Commenting out - using Render env vars
 //import { config } from 'dotenv';
@@ -131,7 +132,8 @@ To show this again, type \`!shiphelp\`.
     });
 
     const reply = completion.choices[0].message.content.trim();
-    await message.reply(reply);
+    //await message.reply(reply);
+    await safeEmbedSend(message.channel, reply, 'The Ship Who Chats');
 
   } catch (err) {
     console.error('❌ GPT or API error:', err);

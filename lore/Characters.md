@@ -42,7 +42,7 @@ Patron: Moradin
 ## Aarg (aka Aargh) Gnollslayer
 Angel of Death. CN Goliath Barbarian. Followers: warhorse Elk and squire Squid. Patron Amarok. A scallywag who adores Elk. Currently wielding a Sceptre of Imix.
 
-##  Ellis Sein
+##  Ellis Sein (aka Ellis Sain)
 CN Human wild magic sorcerer. Noble, vindictive, power hungry, vain, defiant, seeking approval of her family. Patron Mayber von Tollant.
 
 ## Sycamore the Silly

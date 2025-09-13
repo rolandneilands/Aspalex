@@ -63,6 +63,10 @@ client.on('messageCreate', async (message) => {
     message.channel.send('Pong! 🏓');
     console.log('✅ Responded to !ping');
   }
+  if (message.content.startsWith('!ahoy')) {
+    message.channel.send('Avast! Who goes there?');
+    console.log('✅ Responded to !ahoy');
+  }
 
   const content = message.content.trim();
 

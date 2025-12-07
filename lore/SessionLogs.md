@@ -1072,4 +1072,63 @@ The Sultan appears once more and announces:
 “And to the slaves who reached freedom today—know this. The brass watches. The brass rewards. The brass remembers.”
 “Now… let the city feast, let the bells cry flame, and let the streets sing of their Sultan.”
 
+
 Session 47
+
+The race finishers filter through the finish line and gather around the harbour, exhausted with spectators clamouring and grasping at the winners. Terrist’s rival congratulates him with poor grace and disbelief at the close margin and the denial of heroic final push. The party move above the opportunistic hands of fans, where Terrist receives a sending from General Abd Multahib- "Congratulations! Come and see me in the next hour about your options, before the award ceremony."
+The party fly back to the palace, over the straggling chaos of the tail end of the Freedom Run foot race. The Charcoal Palace grounds are filled with finely dressed efreet, picking at banquet tables in front of a new podium. The General is found in his office waiting. "Good race! You’ve won what all new officers dream of, do you know what that means?" 
+"Not really, no" says Terrist.
+"You have your pick of commands, a hundred knights, and a brass colossus. This is an investment not a gift though, and you’ll be expected to send back ten thousand gold in taxes, tariffs or spoils of war every month, and more if you want extra troops. You can choose the City Watch, the Gates, any of our garrisons or outposts, or if you prefer to trade in information and secrets there is the Emberwatch."
+"Can I say no?"
+"And embarrass the Sultan publicly? Not if you want to live"
+"I choose the Emberwatch"
+"Good. You won’t get knights then, but your pick of agents. Publicly at the ceremony, say you’ve chosen to be a prison warden. No one in their right mind will come looking for you there."
+"I’ll be good at this, I’ve worked with Vecna before"
+The General gives Terrist a sharp questioning look.
+
+The party move back to the ceremony and enjoy the feast. The mood is festive, weary and sated with the carnage of the race - no one dies at this dinner. Nobles, emissaries and wealthy merchants all dissect the race and wait for the results to be announced.
+
+The Sultan declares the slave to noble result will take some time to work out. He calls Smoky Joe and Terrist to the podium and announces him the winner of the Steeplechase, pinning a horse shaped medal to Terrist’s armour, asking  "What army posting do you choose?"
+"I want to be a warden of the prison"
+"Excellent! It is done. Enforce my laws, and enjoy all the City of Brass has to offer. Cleanse the Vent of Fire Giant traitors, and then pick your five score Fire-Knights. And here is the Brass Colossus!"
+The hulking brass golem stands impassively beside the podium, waiting for commands.
+The Sultan then announces the winner of the slaves footrace, a battered Tiefling woman. "To all slaves - see the Sultan keeps his word and offers you the same hope. As the winner of the Freedom Run I grant Ariyah manumission."
+The Tiefling looks conflicted between joy, terror and rage and accepts nodding silently.
+
+The party briefly look around the party, talking briefly with the Amak’s, the massive devil Sazerac and her svelte offsider Alirya. Terrist sees Exounth Ironhide and notices for the first time the old veteran has a horse medal too, and is glad Terrist didn’t choose his castle.
+
+The party retire to the training grounds with their new brass colossus to prepare for the return expedition to the Vent the next morning. The nautiloid’s shell has been cleaned out of gunk, slime and alien detritus. The interior is much bigger than the astral skiff, so rations and supplies are loaded in, and the crew split with Aplex appointed captain of the nautiloid as a supply tender.
+
+Thoric calls back to Goldspire via a message through a mini-gate and the Fire quarter head Spinch Mettis opens a Gate to assist in reorganising their gear and bringing the squires on board. Spinch seems distracted and annoyed, deflecting when Thoric presses him to see what the matter is. 
+"War presses on all sides. Your items will be done in a week. We haven’t seen much recently in the way of mini-gates."
+Thoric corrects him on the most recent one dropped in lava, and when Spinch admits he would like more knowledge and information the party recount their recent dealings with various cultists of Vecna, Imix and Surtr. Spinch is speechless and rapidly reassesses his opinion.
+
+The Lancers are all suddenly eager to gain Terrist’s favour and be one of the five score hand picked. Sippervetak recommends a Lancer called Gihirn Gate for the tenth Wispurgan post for his ability to rally troops, and for overcoming adversity and injury. The party are happy to accept and Leon gives a stirring speech announcing this to all Lancers, and raising morale for the next battle of the Vent.
+Three of the Lancer Wuzurgan, Oosmerf Deer, Toalo Rakesh and the familiar looking Onelz Amit placed in the top ten, and the party consider them the best candidates for the top post of Wispurgan. Oosmerf seems a little suspicious to Thoric, so Terrist sneakily slips the amulet out from the armour Oosmerf is wearing, finding an Imix symbol. 
+
+The night passes without incident despite milling admirers behind the guard lines, who disperse quietly after dark.
+
+Date X+108
+
+The Lancers launch at first light. Thoric diverts to the Kalian Smoke Market briefly to engage a cleaner for the prospective temple of Moradin, and is referred by the chandlers downstairs to a nearby bookish efreet called Ellinth Saga who agrees to the job. Thoric arranges ongoing payment via his trading partner in the Pyraculum.
+Leaving the city all together the Lancers soon outpace Aspalex, who in turn is faster than the nautiloid Piphakry. They realise the cavalry will have to keep that pace to make the Vent in time, where the ships can port right there, Aspalex using a Leyden charge, and Piphakry seeming to be able to travel the planes at will. The leading Lancers effortlessly annihilate some dust & magma mephits without slowing down.
+The spell-jammers let the Lancers race ahead through the cinder storms, with all not required going below decks to avoid it. Piphakry tremors at the biting embers against its tentacles, and retracts them into tightly intertwined spirals, moving shell first in smooth spurts like a rowboat, keeping behind Aspalex in the lea of the leathery red wing/sails.
+Having time, the party decide to drop a mini-gate in the Ash Dunes to the southeast. 
+
+The storms ease briefly, revealing a pair of chimera who steer well clear of the much larger ships. Much later, a flicker of gold appears tantalisingly close within the storm at odd moments. The party call out and a gold dragon wyrmling flits around playfully, answering in draconic. Salmur and Akaanvaerd answer, and the little dragon challenges the ship on its awkward flying, saying it probably can’t barrel roll. Akaanvaerd most definitely thinks he can, but dramatically fails to prove this, stalling at the apogee and losing Leon’s squire Zak. Leon launches off on White Socks and catches the lad, at the same time the wyrmling does too.
+
+Returning to the ship the party ask the wyrmling where it’s lair is, to be told "My mother told me never to reveal that". The party ask the wyrmling to ask its mother to come back and meet them. It agrees, and loop-the-loops off the rail into the storm. The party wait in vain for its return, with the mother either not believing the excited and fantastical story, or not willing to compromise her brood and hoard’s safety. 
+
+The party land in the Ash Dunes, and are immediately ambushed by salamanders buried in the ash. Terrist grapples one, its heated body singeing his fur. Leon intimidates the others into backing off in twos and threes, and they retreat to the nearest dune crest shaking their spears and watching distrustfully. Thoric shapes the ground to bury a mini-gate in the winnowy ash out of the salamanders line of sight and the party make their exit back up to the ships.
+
+Aspalex shares the Vent location telepathically with Piphakry, and the last hope of the nautiloid race plane shift together to a safe distance clear of the Vent.
+
+There is no sign of the Lancers, or the dragons.
+
+Refugee fire giants were seen leaving the city in droves, and the party wonder how many are now gathered in the caldera, and what defences the great smiths have forged in the meantime.
+
+The Cradle of the Fire Scion awaits, in a volcano the party have already been brutally lava-bombed by. Surtr’s faithful are strengthened in his presence and are building their power and defences. Now is the time of to take advantage of their weakness. Can the Lancers and our heroes can take on an army and a god again? Or was the last battle carried by luck and the larger army?
+
+Date X+110
+
+Session 48

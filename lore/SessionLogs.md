@@ -1132,3 +1132,40 @@ The Cradle of the Fire Scion awaits, in a volcano the party have already been br
 Date X+110
 
 Session 48
+
+The ships hover in the swirling cinder storm, shy of the vent looking for their allies. Sending to both the Lancers and Felparizin reveal they are close by and a meeting place out of lava bomb range is confirmed. The storm clears as they make their way to the rendezvous, where a straggle of fire giant families hauling carts of tools, luggage and furniture are plodding toward the Vent. Leon, Thoric and Aargh land on nightmare-back before them and work together on an impressive speech Aarg delivers in Giantish, imploring and implying fates left to the imagination if they continue into a battle-zone. The refugee giants are swayed, and ask where they could go instead? Not knowing the whole Plane of Fire, the party offer the Azer village of Arafalque, or perhaps the town of Celsus, mainly by process of elimination.
+
+The Lancers arrive, ready to swoop in on the giants, to be waved off by the party. The army make camp for the night and prepare for an assault on the Vent in the morning. The heroes decide reconnoitring would be a good idea to avoid nasty surprises, through the misty and more importantly safe obscura of the Ethereal. 
+
+The party fly down the cliff and into the centre of the Vent, noticing Fire Giant fortifications, stone houses and forges under construction. The juggernaut Cradle of the Fire Giant Scion stomps around the caldera, swirling lava and ash in its wake. Thoric sees a rare glint of colour in the Ethereal plane - rich gold runic inlay on an intricately carved wooden chest. He unearths it and divines it is the hidden secret stash of a famous magician, subject to recall at their whim.
+Terrist unlocks the tumblers, and is then temporarily stumped by the magic lock with a nagging feeling he’s forgotten something. The party carry the chest back to camp with them.
+
+They return to the Vent cliff wall and begin flying up. Shortly they notice a number of small tunnel openings in the cliff face, too small for giants or nightmares.
+
+These openings seem to hold some kind of complex jerry-rigged machinery, the details too fine to make out through the misty ether. Gray outlines of Kobolds can be seen working on what might be siege equipment. Thoric sends to one nearby noting the battle about to start and gets a stream of impatient invective in mixed Common and Draconic about how they’re working as hard as they can and Thoric’s mother has/ate or did something with a fire worm. The party take this as a sign of draconian direction and find an ethereal path at a steep angle up along the layers of compacted ash back to camp.
+
+Here they find much larger tunnels, with an immense dragons backside blocking the exit. The party avoid this and emerge to see the three dragons of the lauth each resting on their crossed forelegs on the edge of their own tunnels like psychotic sphinxes. Greetings, plans and a feast are shared. The dragons will burrow in from all sides, and the nightmare cavalry will follow these through the ether to avoid lava bombing. The ships will guard the camp.
+
+Sated with the feast of very out-of-place fish Terrist recalls that dispel magic focussed on the chest lock only should leave the remaining magic in place. Thoric finds some magic-reflective Tarrasque hide in the hold and fabricates a piece with hole in it and tries this out. Unfortunately the makeshift template slips slightly and the now unlocked chest starts vibrating out of their dimension. Aargh tries to wrestle dimensional shackles onto the chest to lock it in place and finds no purchase, even with Terrist’s help. As the chest reverberates further and further out of baud with their dimension Terrist tips it upside down, dumping the contents on the ground just before the chest returns to disappoint its owner.
+The stash includes gold, some healing and a speed potion, a Candle of Invocation, winged boots Aargh happily claims, and Iron Bands of Bilarro.
+
+The allies rest for the night, with no alarms raised.
+
+Date X+111
+
+A slow rhythmic booming and secondary vibrato continues from the direction of the Vent.
+
+Morning shows however a handful of sheepish efreet soldiers drained by what they say looked like other efreet soldiers. They seem to be conflicted between betrayal, guilt and pleasant memories. No trace of the intruders is found.
+
+The army press on, ethereally through dragon tunnels and as agreed break off to engage the emboldened Fire Giants while the lauth swoop and bombard the Scion’s Cradle form as the party close to engage it away from the giants. Thoric closes to cast a radiant spell on the Scion, and switches to hold this in place ethereally with Leon’s help. Leon returns to the action immediately. The Cradle calls up a geyser of lava under Terrist, and moves around Aargh to spray the three with more lava, bashing Leon and hurling lava bombs at Aargh, igniting the barbarian. Thoric’s spell heals the massive damage Leon and Aargh take each turn, and Terrist ducks and weaves through the roiling smoke billowing from Surtr’s Scion. The foul rotten-egg stench of the volcanic gas is poisonous, luckily their feast has warded the party against.
+The dragons circle wide, and swoop in seemingly lazy passes til Felparizin gets close enough to see how large he really is, shielding the two adult dragons from lava spurts like chicks under a mothers wing, or maybe more appropriately remora on a shark. They deal a vicious combination of thunder, disorienting gas, and surprisingly from the fiery greatwyrm, knowing his flames ineffective here a volley of four arcane spears.
+
+Terrist deals a final blow to the juggernaut Cradle, which cracks apart like a rocky eggshell, revealing an equally large blackened rock humanoid with glowing red veins wielding an enormous sword dripping with lava.
+
+This sword is quickly used to spray Leon, Aargh and White Socks with lava, which congeals quickly into grey speckled granite, holding them hovering in place, struggling to move at all.
+
+Aargh at least is no longer burning, and after a few attempts frees himself and then Leon. Thoric keeps healing, as does Leon, as the Scion bashes them mercilessly and resprays them with glittering rock. Terrist wisely stays hidden in the smoke sniping with the crossbow. The party and the dragons wear down the juggernaut slowly, which cries in Giantish for aid from all Surtr’s vassals until Terrist and Leon combine with a quarrel to the eye and a coup de grace remove the boulder shaped head, which bounces and cracks on the new stone ground. The Scion slumps to its knees and then flops chest down into the lava, dropping the enormous sword. This and the dead Scion visibly cool down, the glow receding, and the lava cooling in all directions.
+
+The party turn toward the so-far ignored battle still raging between the Lancers and the Fire Giants …
+
+Session 49

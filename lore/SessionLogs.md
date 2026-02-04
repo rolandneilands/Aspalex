@@ -1169,3 +1169,57 @@ Aargh at least is no longer burning, and after a few attempts frees himself and 
 The party turn toward the so-far ignored battle still raging between the Lancers and the Fire Giants …
 
 Session 49
+
+Our conquering heroes move towards the fire giant fort, Thoric ethereally walking his pillar of celestial light. They notice the Lancers and giants have both reduced by around a third in casualties. Some civilian giants are running toward the vent walls and Terrist sees emerald kobolds pointing a dish-like device twice their size at the giants, building in sympathetic resonance before making a THWUMP noise and each time shattering a giant into jelly like flesh in a new crater in the rocky ground. 
+The Lancers are recalled to the pillar for healing, while the lauth, army and party stare down their opponents, letting tension build. 
+When the pillar of radiance the giants have seen once before here at the Vent at full effect is close enough, Aargh yells out in Giantish words translated from Leon and Thoric’s exhortations to surrender. With the Scions fall and its empowering support suddenly lost, along with three circling dragons, the nudge is devastatingly effective. Felparizin underlines it with a swooping landing in behind Aargh, holding out an extended claw to summon the Scion’s lava blade and stamping it hilt first into the ground.
+The remaining giant refugees are completely routed and scatter for the vent walls in all directions away from the allied forces. The giant soldiers swarm out dripping weapons and shields and raising their hands, dropping to their knees a short distance away from the fort and slightly to the side. Only zealots are left, religious extremists holding Imix the Prince of Evil Fire’s sceptres and symbols.
+The First Lancers wink out into the ethereal as one, where Thoric sees them charge through the mist. Aargh charges alone toward the fort earning half a score of large cobbles at speed to the body for his trouble, followed by Leon. The dragons pickup rocks to drop from height and launch vertically, stirring up ash with great wing beats.
+
+The giants hold to their rough fortification and keep lobbing rocks, though Aargh and Leon stay with the celestial pillar for healing. The dragons return the favour before the two gem dragons close to breath disorienting psychic damage and thunder, dodging rocks as they strafe the wall. Aargh trades bolts of Imix with the giant clerics then scales the wall like a spider and attacks the nearest giant, before the Lancers appear behind the giants en masse and unleash a coordinated wave of scimitar strikes to make their trainers proud.
+Leon and Felparizin bookend the fire giant line, attacking opposite ends and Terrist snipes from a short distance to take advantage of the distraction, after considering exploring the mysterious thunder dish mounted in a Vent wall alcove, but thinking better of the time needed to travel that distance away.
+
+Thoric brings the celestial pillar to the wall finally to finish off batches the stubborn yet desperate giants, cleansing their evil with sunlight. Felparizin wields the obsidian lava blade awkwardly like a child’s new toy, yet still he slashes point backwards in a one-clawed grip like an assassin, and a fiendish grin at the giants chagrin at the sight of their champions weapon used against them. 
+
+The fire giants die, and die, for their cause, outnumbered and outclassed. Thoric strides on Red Lightning back from the ethereal to make the final blow, and finds for the second time the lines of power through the Vent let him keep concentrating on his spell despite what should have thrown him off. Terrist also notices a swirl of red energy around Thoric, quickly dissipating and realises the ley-lines here are highly concentrated, converging and compounding magic energy at the intersections. This leads his eye to ghostly Rorshach blots can be seen in a flat layer of spiralling smoke above them, roughly where the portal was …
+
+The allies take a moment to enjoy the victory and the dragons thank them all as honourable and reliable compatriots and confirm they will honour the agreement, suggesting the party complete the gathering of their quarter share of the treasure soon. Terrist asks Apstakformin about the thunder dish, and trades two Archmage spellbooks for it to be mounted on the nautiloid Piphakry. The emerald dragon suggests not to point it at the shell or else it may shatter like the giants bones.
+
+Thoric asks Felparizin for the lava blade, but he declines, saying he has a matching Vonindod (runic colossus) heart engine from the Surtr temple to mount it near in his collection.
+
+Sippervetak fronts up to the party, congratulating and thanking them. Of the Lancer Wuzurgan’s performance he recommends Onelz Amit over Toalo Rakesh and also notes that the Imix symbol holder Oosmerf Deer has deserted mid-battle. Thoric promptly sends the Retriever after him. The red scale-mailed drill sergeant say it’s time for him to return to Corus Vale and takes his leave.
+
+The party field-promote Onelz as Wispurgan of the 1st Lancers, and orders them back to the City of Brass. Onelz gratefully accepts and suggests they will need to recruit more Lancers. Thoric says he still can’t figure out why he looks familiar, Onelz and Terrist don’t know what he’s talking about.
+
+The party fossick for gems for a few hours, and realising the work involved leave the nautiloid to be fitted by the emerald kobolds, and plane-shift to Starforge to gather a team of miners. Five dwarves volunteer to help out for a cut and immediately pack - the next morning returning with the dragonskiff to begin their search, with the dragons tacit approval.
+
+The party prepare to leave, and the lauth convenes for a final time. The dragons say "We have conferred, and decided to speak in your favour to one who appreciates the fruits of your efforts here." The misty shadow of the portal swirls faster and out of the smoke, an image of dragons becomes clearer and coalesces into an apparition of one enormous hydra-like dragon with multiple heads, each a different colour. 
+
+The Aspect of Tiamat purrs subsonically, and says "Children, you have helped defeat my enemies here and I will grant you each a blessing so long as you keep my favour. Choose. Each head then states it’s option:
+"Health"
+"Protection"
+"Understanding"
+"Magic Resistance"
+"Wound Closure"
+
+Salmur overcomes his overwhelming fear and launches into a tirade promising the wrath of Bahamut, which most ignore to his disgust.
+
+Terrist chooses Understanding, and Tiamat graces him with an infusion of glowing power from a green talon. He is slightly disappointed that it would better suit clerics than arcanists like himself. With perhaps new wisdom he does not complain but asks for the location of the Red Claw, and Tiamat quietly suggests talking to Mayber von Tollant.
+
+Aargh chooses magic resistance as he doesn’t believe in it anyway, and Leon even more protection, hardening his body and mind against physical and mental challenges.
+
+Thoric asks for Tiamat’s recommendation and is given Understanding too.
+
+Salmur stalks off muttering about returning to Corus Vale.
+
+The party prepare to leave the Vent, perhaps for the final time, their part in the lauth contract concluded to the satisfaction of all. They wonder slightly at what this new gift may bind them into, and at hidden costs.
+
+Their future challenges now seem all achievable, and many paths lie open, some calling with the urgency of peril to many and some understated but no less consequential.
+
+Gods fall, gods rise and mortal pawns die on their chessboard or rise up too.
+
+Which way will the heroes choose? And will their growing list of enemies let them go there?
+
+Date X+114
+
+Session 50

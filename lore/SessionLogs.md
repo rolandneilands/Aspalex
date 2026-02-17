@@ -1223,3 +1223,43 @@ Which way will the heroes choose? And will their growing list of enemies let the
 Date X+114
 
 Session 50
+
+The heroes debate how best to proceed, where they may be needed most, and what the risks of inaction might be for Corus Vale, the rising devils, and Vecna’s plots. Realising they don’t know these answers, Virtu suggests Thoric cast Legend Lore, and learns of the artefacts Eye and Hand of Vecna, and also the Sword of Kas - each the only things able to destroy the others. Remnants of an ancient feud born of Kas’s betrayal, they carry on their creators will and power.
+Thoric also notices the Retriever has not returned from its mission to capture their turncoat Imix loving Wuzurgan. Terrist advises that efreet are particularly suited to evade capture, especially nightmare cavalry, and they may need better tactics, particularly to scry the runaway each time he shifts planes as this causes the Retriever to lose the trail and wait.
+
+The ship sets off from the Vent leaving the nautiloid and the mining crew to their work and blinks out to the Cinder Waste near the City of Brass, to see the Lancers approaching at a steady flying gallop. Regrouped, they all fly in together to the naval docks. The quartermaster of the Keep of Fire Striking Steel harrumphs at the Lancers and their self-supplied armour and after greeting them perfunctorily, goes back to the important business of applying galvanic inks on bronze foil requisition forms in triplicate.
+
+The lower ranking Lancer are dismissed to the barracks for the night, and the officers go with the party as their leaders for perhaps the final time. First they return the ship to Jemina at the Red Wyrm smelter to continue the fitout, and then the Charcoal Palace to report to General abd Multahib. He hears their battle report with great pleasure and asks many questions. Onelz Amit is introduced as the new leader and the General confirms him. Onelz suggest a recruiting drive and that a victory parade may help here, and the General advises them to petition the Sultan for this, who’ll also be keen to hear their story.
+
+Terrist is asked to stay behind and gets a fast lesson in plausible deniability, operating through others, and when to use offical channels and resources vs his own. He will have build his own network from scratch and bootstrap any funding from asset seizures/nationalisation and blackmail, however as a 1 star general he can order nearly any City of Brass troops to assist at need, keeping these actions low key of course. Report in with usable intelligence regularly, don’t reveal yourself, and never embarrass the Sultan.
+
+The heroes join the queue to see the Sultan, who breezes through various complaints and requests for dispute resolution with boredom and minimal justice. He perks up at the heroes and officers and asks about the Vent battle, and about their horses by name. To tell the story with some panache, Terrist displays an image of the scene in the vast throne room, while Leon booms out the narrative. The audience thrills to the defeats of the Cradle, and Scion of Surtr and stomp in time to the rout of the giants. The blessing of Tiamat holds them to awed silence. 
+
+Thoric presents three Imix sceptres to the Sultan as a gift, and the Sultan gives them all badges depicting the Vent as a pair of silver cliffs and the Portal in swirl of coloured gems. Their commission is declared successful, with Terrist continuing as prison warden of course, and Onelz welcomed as the new Wispurgan.
+
+The Sultan proclaims a feast tonight and a victory march tomorrow at noon at Onelz subtle prompt, and revels in his great victory and the gods blessing upon his soldiers.
+
+Terrist thinks of the Lancers he knocked out at the polo match, and realises one of them, Heimwa Brook, is a Wuzurgan, and at the palace with them. He takes Heimwa aside into an unused office and finds a willing recruit to carry on for him in the City, but stumbles on a means of communication.
+
+He decides to buy some Sending Stones from the magic stores, but first flits between the three army castles to requisition some ballista for the nautiloid. Getting the best he can here, Terrist meets the others at Afends Magic Emporium, where he waits outside as Thoric and Leon find the owner is grumpy and unwilling to offer any kind of bargain, even to Leon. Thoric lends a sympathetic ear to find a list of problems weighing on Afends - a dead son in the Vent battle, minor thievery, and possible infidelity. As compatriot Angels of Death to his son, they get better treatment, especially on the promise of help other two problems. Terrist thinks he could locate at least two items pretty quickly, and idly daydreams through the requirements and legendary rewards of finding the Thunder & Awe secret demi-plane, buying a helpful item for this.
+
+Returning guised as Salmur, Terrist advises he’s been sent to investigate these problems, gets a list of missing items, and stalks the suspected adulterous wife at work. Realising the feast is nearing, he bloods the Quill of Nihros and leaves it wrapped in paper on the shopfront eave to gather whispers.
+
+Meanwhile Thoric prays to Moradin for priests willing to steward the recently hallowed temple site in the Rookery district, and receives two names: "Greenstone" and “Raj". He walks the Street of Steel and finds this to be a good place to be a forge cleric, lending a hand or a blessing here and there, and many meet to drink together. Unzorx Greenstone is intense, unblinking and keen to recruit the best for Moradin, and one day become a Hammer too. Zifuholx Raj drawls slowly, and hitched his way here, but is also keen to stir up a revolution for Moradin. Both agree quickly to Thoric’s plan and visit the empty site with him. Thoric leaves the temple in good hands with them, buzzing with potential.
+
+The feast is fatality-free this time, at least inside while our heroes are there. Sazerac congratulates them on their blessing, and answers Thoric’s questions about Tiamat’s home Avernus, noting as intellectually interesting but dangerous and wandering locations the River Styx, the Red Belvedere, Tiamat’s Monument, Bel’s Forge, Kostchtchie’s Maw, the Wandering Emporium, Arkhan’s Tower and the Pit of Shummrath. The ethics of the Blood War also have Thoric questioning the inaction of the "good" realms as Zariel did. Sazerac offers her help as always, and the party decline without asking the cost,
+
+Exounth Ironhide claps them on the back and chips Terrist for not stopping in to see him while at his castle today.
+
+Jemina chats happily about the new weaponry they could do for the ship, and all agree to rush the Oaken Bolter first, then work slower on the Iron Golem tome, binding an earth elemental into a cannon and an eldritch cannon. These are bartered for the Demon Armour, the Robe of Archmagi (which Jemina wears), and the Tarrasque carapace as collateral for the rest with a right of first refusal on one suit of anti-magic armour.
+
+The deal struck, the battle won, the contract closed, the heroes enjoy the feast they earned in the Sultans honour, with the political intrigues of the City of Brass now treating them as pieces off this board. 
+
+Others do not, and watch side-eyed in the busy streets and darkling corners of the lamplit night.
+
+Their next great purpose looms as an existential question - what is the greater good?
+
+That’s for tomorrow though, and first the last achievement must be celebrated properly for all to hail the great glory of the Sultan and his victory. May the Breath of the Sultan burn forever!
+
+Session 51
+

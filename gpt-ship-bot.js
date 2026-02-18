@@ -4,22 +4,41 @@ import fs from 'fs/promises';
 import { systemPrompt } from './systemPrompt.js';
 import { safeEmbedSend } from './safeEmbedSend.js';
 
+// Fake HTTP server to keep Render's web service happy
+import http from 'http';
+
+http.createServer((req, res) => {
+  res.writeHead(200);
+  res.end('Discord bot is running.');
+}).listen(process.env.PORT || 3000);
+
 // Commenting out - using Render env vars
 //import { config } from 'dotenv';
 // Load .env config
 // dotenv.config();
 
-const DISCORD_TOKEN = process.env.DISCORD_TOKEN;
-const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+process.on('unhandledRejection', (r) => console.error('UNHANDLED REJECTION:', r));
+process.on('uncaughtException', (e) => console.error('UNCAUGHT EXCEPTION:', e));
+
+const DISCORD_TOKEN = (process.env.DISCORD_TOKEN || '').trim();
+const OPENAI_API_KEY = (process.env.OPENAI_API_KEY || '').trim();
 const CUSTOM_GPT_ID = process.env.CUSTOM_GPT_ID;
 const TEMPERATURE = parseFloat(process.env.TEMPERATURE || 0.7);
 const MAX_TOKENS = parseInt(process.env.MAX_TOKENS, 10) || 2000;
 const GPT_MODEL_ID = process.env.GPT_MODEL_ID;
 
-// Load allowed channel IDs into an array
-const allowedChannelIds = process.env.DISCORD_CHANNEL_IDS
+if (!DISCORD_TOKEN) throw new Error('DISCORD_TOKEN missing/blank');
+if (!OPENAI_API_KEY) throw new Error('OPENAI_API_KEY missing/blank');
+
+console.log(`Node ${process.version}`);
+console.log(`DISCORD_TOKEN length=${DISCORD_TOKEN.length}`);
+console.log(`DISCORD_CHANNEL_IDS=${process.env.DISCORD_CHANNEL_IDS ? 'set' : 'MISSING'}`);
+
+// Load allowed channel IDs into an array (guarded)
+const allowedChannelIds = (process.env.DISCORD_CHANNEL_IDS || '')
   .split(',')
-  .map(id => id.trim());
+  .map(id => id.trim())
+  .filter(Boolean);
 
 // Define known personas
 //const PERSONAS = ['Aspalex', 'Akaanvaerd', 'Kalavanjert'];
@@ -148,14 +167,22 @@ To show this again, type \`!shiphelp\`.
 client.on('error', err => console.error('⚠️ Discord error:', err));
 client.on('warn', w => console.warn('⚠️ Warning:', w));
 
-client.login(DISCORD_TOKEN).catch(err => {
-  console.error('🔑 Login failed:', err);
-});
 
-// Fake HTTP server to keep Render's web service happy
-import http from 'http';
+console.log('Attempting Discord login…');
 
-http.createServer((req, res) => {
-  res.writeHead(200);
-  res.end('Discord bot is running.');
-}).listen(process.env.PORT || 3000);
+const loginPromise = client.login(DISCORD_TOKEN);
+
+// If login hangs (blocked WS egress, gateway not reachable), you'll see it.
+const hangTimer = setTimeout(() => {
+  console.error('Discord login still not resolved after 30s — likely network/WebSocket blockage to Discord gateway.');
+}, 30_000);
+
+loginPromise
+  .then(() => console.log('Discord login() resolved — waiting for ready event…'))
+  .catch((err) => {
+    console.error('🔑 Login failed:', err);
+    throw err; // crash loud so your host shows a hard failure instead of “stuck”
+  })
+  .finally(() => clearTimeout(hangTimer));
+
+

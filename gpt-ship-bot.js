@@ -67,9 +67,17 @@ console.log('✅ lore loaded into RAG system');
 
 //const COMMAND_REGEX = /\{(.+?)\}\s*asks\s+(the ship|Aspalex|Akaanvaerd|Kalavanjert)[:,]?\s*(.+)/i;
 
-client.once('ready', () => {
+
+let announced = false;
+const announce = () => {
+  if (announced) return;
+  announced = true;
   console.log(`🚀 The Ship Who Chats is online as ${client.user.tag}`);
-});
+};
+
+client.once('clientReady', announce);
+client.once('ready', announce); // backward compatibility 
+
 
 client.on('messageCreate', async (message) => {
   console.log(`📩 Message in channel ${message.channel.id} from ${message.author.tag}: "${message.content}"`);

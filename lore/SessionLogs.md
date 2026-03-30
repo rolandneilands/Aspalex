@@ -1263,3 +1263,28 @@ That’s for tomorrow though, and first the last achievement must be celebrated 
 
 Session 51
 
+The party park the airship at Jemina’s Red Wyrm Smelter. It’s still a snug fit although this time the wing/sails fold down more easily. Jemina is more than happy to work more closely with the schizoid living artifact, talk with it and examine its core structures. The party rest uneventfully, something they no longer take for granted.
+
+Date X+115
+
+The party all agree that the Vecna cultists are the pressing issue to resolve next, and they return to the Rebel Rubble with Leon leading them back to the catacombs he found.
+
+Entering the tunnels, they find a ruffled and confused noble looking out of his normal state of presumably higher control. Lord Dagult Neverember introduces himself informally and asks for help rescuing four kidnap victims. He also mentions the door they’ve just entered through no longer goes back to his home of Neverwinter, cutting him off from his guards and some priests of Oghma enlisted to locate the missing townsfolk even though he is certain they are in its Neverdeath graveyard. He points out the crypt they are in as the mausoleum of the Hallix family, although the four nearby coffins are now disturbingly empty, holding only rags and bone fragments. Virtu looks closely to see these bone shards are covered in bite marks.
+
+Thoric spots movement down a set of stairs in the next room. Virtu calls on his patron, bathing himself in light with several objects orbiting his head. The light attracts five ragged wights, which Thoric turns in the name of Moradin, sending them scurrying out a collapsed section of wall in the lower room, though not before Leon and Virtu lay into them, sending two into piles of dust. Lord Dagult nobly steps in front of Virtu and sets a guard stance with his greatsword, shouting surprisingly helpful weaponry advice to Leon.
+
+The rescuers move through the crypts, finding one of the cult’s hostages behind a locked door, a sorceress with wild black hair named Sarcelle Malinosh, who claims to have been stripped of her magic in a psychic exploration of a dreadful future by a desiccated levitating man, gathering evil energy around himself in glowing wisps. Lord Neverember confirms she is one of the four missing people, the others being Eldon Keyward, Indrina Lamsensettle and Umberto Noblin. He offers to keep her safe in the rearguard as the party explores.
+
+They move through another open door where water can be seen moving and flowing. A large pool fills the middle of the room with a system of rusty pipes raining water from the roof. The party see creatures moving in the water, which appear to be a water elemental and a pair of water weirds. Approaching the water earns a warning in Aquan that they’ve "had enough" and to stay away. Thoric sends a reply to them which only seems to confuse them. The elementals repeat their threat, effectively denying passage through the room as there is only a narrow path around the pool. Leon steps in and mimes a simple threat involving drinking, which horrifies the water dwellers into fleeing to the depths of the pool.
+
+In the adjoining rooms they find a system of pipes, gears and valves, which Virtu confirms can decrease or increase the water flow, possibly flooding the area. The next room holds the dejected gnome Umberto, who after a little food is happy to talk about his academic research on Vecna. 
+
+Another room holds a green fish headed marid called Shanzezim, who was long ago bound here by the now defunct Waterclock Guild. He is happily working away on a set of cogs and gears he says is a time-keeping device, and doesn’t want to leave or interfere with anything outside his room, despite not liking the cultists. He does gift the party a lucky golden cog.
+
+The party clear what Dagult says is the main graveyard, and move to the Paupers Graveyard via a valley of stairs, with a set of four bells hanging from the ceiling. They ponder what this means, and the ex-prisoners note they often heard a sequence of bells ringing, although a general lack of musical skill in all present hampers repeating this, even with a harp they found. 
+
+Virtu tires of the speculation and, still lit up brightly like a City of Brass canal on a victory parade day, walks past the bells to open the door painted with a large eye and up the opposing stairs into a large room with some annoyed cultists, all looking at him. Leon rushes to assist and hopefully limit the damage …
+
+As Virtu stares down the likely kidnappers who’ve spent their lives uncovering the secrets of the multi-verse for themselves he wonders again briefly how it is they all know the same gods and the same language.
+
+Session 52

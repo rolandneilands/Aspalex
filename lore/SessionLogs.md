@@ -1337,7 +1337,7 @@ The next room contains a sealed door, with letter tiles spelling “DOLINDAR" ab
 
 The mechanism whirs and the door opens to a large room with a coffin on the far side, with a staggering array of blades sticking out of the floor everywhere. A humanoid figure lurks over the coffin with blade like arms, Kevetta Dolindar, now a lonely sorrowsworn. 
 
-Leon uses his winged boots to fly above the blades, while Thoric takes a running start to leap over them. Kevetta stabs out her harpoon like arms right across the room at the party, bouncing off the heavy shields, as Virtu and Terrist attack from the doorway. Thoric lands and swings the hammer down into a mighty arc, crushing Kevetta into dust. 
+Leon uses his winged boots to fly above the blades, while Thoric takes a running start to leap over them. Kevetta stabs out her harpoon like arms right across the room at the party, bouncing off the heavy shields, as Virtu and Terrist attack from the doorway. Thoric lands ready to swing the hammer down in a mighty arc, though Leon has beaten him there slicing Kevetta through, dissipating into dust. 
 
 A lever behind the coffin after some debate in even trying is found to retract the floor blades. Inside the coffin a roiling silvery-purple energy swirl. Eldon identifies it as the Crevice of Dusk they’re looking for, and they send him though first, following not long after. 
 

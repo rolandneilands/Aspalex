@@ -1327,3 +1327,28 @@ The party pause at the tomb entrance and revivify a grateful Eldon quickly. Were
 
 Session 54
 
+Terrist creeps down the spiral staircase into the dark crypt. Eyes adjusting, he makes out a row of alcoves along both side of a large room, with standing stone tablets in each carved with a slightly different humanoid likeness and now indecipherable epitaph. One alcove stands empty bar an old broom and some rags, with a paper note saying "Newmy’s Room". Terrist brings the party down, and Virtu approaches the closet to see an apologetic blue haired elves ghost pop up out. Newmy introduces herself as the cleaner, paid in advance for several lifetimes of service. She reveals she’s only been cleaning this room as the other Dolindars have ‘not been sleeping right’. 
+
+The heroes move forward despite the warning and see two Lost Sorrowsworn in the next room amongst the wreckage of two stone coffins. Virtu moves into the room to Toll the Dead, and Thoric and Leon move in front to deflect the brunt of the monstrosities arm spikes while Terrist snipes from the stairway. The sorrowsworn fail to breach the front-liners shields and armour and fall back to eternal rest. The coffin nameplates name them as Evisha and Nolan Dolindar, beloved siblings.
+
+Returning and trying the opposite stairs, the party find a treasure vault with six pillars stacked with gold and valuables and inscribed "What good are treasures when home is denied?".  Some interesting items include a Driftglobe with a map of the Outlands, a book on escaping Carceri and a snow globe containing a replica of Neverwinter.
+
+The next room contains a sealed door, with letter tiles spelling “DOLINDAR" above "NO WORLD TO RETURN". The party all examine it and try pushing the buttons. On the fifth letter, a wash of painful loneliness tears through their minds, a mechanism whirs and the buttons pop back out. After some time working through possible words, the party seem at a loss. Eldon pokes his head in from the stairs and asks what happened. Virtu talks through the event, and suddenly is inspired to warn the other to leave the room before he enters the word ALONE. 
+
+The mechanism whirs and the door opens to a large room with a coffin on the far side, with a staggering array of blades sticking out of the floor everywhere. A humanoid figure lurks over the coffin with blade like arms, Kevetta Dolindar, now a lonely sorrowsworn. 
+
+Leon uses his winged boots to fly above the blades, while Thoric takes a running start to leap over them. Kevetta stabs out her harpoon like arms right across the room at the party, bouncing off the heavy shields, as Virtu and Terrist attack from the doorway. Thoric lands and swings the hammer down into a mighty arc, crushing Kevetta into dust. 
+
+A lever behind the coffin after some debate in even trying is found to retract the floor blades. Inside the coffin a roiling silvery-purple energy swirl. Eldon identifies it as the Crevice of Dusk they’re looking for, and they send him though first, following not long after. 
+
+The party find themselves in Neverwinter’s Pauper’s Graveyard. A faded tomb inscription reads "Home again, to rest forever".
+
+Eldon leads the way out of the graveyard towards his home, and around a large tomb they see a group of agitated city guards who sheepishly admit they’ve lost Lord Neverember. The entrance appears blocked by a black magical wall. Eldon suggests it’s the reverse side of the Crevice of Dusk portal the party entered through from the City of Brass, and to try dispelling it. This clears the doorway, to reveal a relieved Dagult Neverember and the three other freed hostages Indrina, Sarcelle and Umberto.
+
+Lord Dagult rewards the party each with one of the many large empty houses of their choice in Neverwinter with a promise of paying for construction workers to renovate them.
+
+The party find themselves nouveau riche in a city broken by a rift and a volcanic eruption yet rebuilding. They could stay, create  new lives and answer the call for heroes heard here like so many places throughout the multiverse. But what of their old homes, bases and compatriots, promises and aspirations? 
+
+And what is that malicious muttering just out of earshot wherever they go now and their sudden keen knack and interest in secrets?
+
+Session 55

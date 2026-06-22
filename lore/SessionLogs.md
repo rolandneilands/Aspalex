@@ -1352,3 +1352,53 @@ The party find themselves nouveau riche in a city broken by a rift and a volcani
 And what is that malicious muttering just out of earshot wherever they go now and their sudden keen knack and interest in secrets?
 
 Session 55
+
+Date X+ 116
+The party spend a quiet and celebratory night at the house of Eldon Keyward, sharing their respective histories. Eldon asks them for more details about Corus Vale, but the characters realise they know very little about their own world outside the valley and it's immediate surrounds.
+
+The sun rises brightly in a new city, full of potential. Eldon agrees to show them around his city and look at prospective houses, recommending his own Protectors Enclave ward of course, which Leon also favours for simplicity and security. The riverfront calls Thoric and the Tower District and the now-filled Chasm slums are the only places this is available, both across the water from each other. 
+
+Their location research done, an invitation to the Hall of Justice awaits. A bored Lord Neverember deals with various plaintiffs, perking up in matters of trade. He sights the party and excitedly waves them to the front and launches into a speech of congratulations on the daring rescue from evil cultists, and announcement of their agreement to take up residence with property and repairs to granted and paid for by himself.
+
+The mayor Soman Galt, a sallow and dispassionate man takes the details of their requested location and specifications of the buildings required. The riverfront land, three extra buildingsand higher quality materials are additional costs Thoric agrees to, naming Eldon as their representative until the renovations are complete in around 4 months.
+
+Soman mentions port and pierage fees if anything is built into the river, and asks the party a few questions about themselves, and suggests their experience with fire elementals may help stopping those in Mt Hotenow from repeating the calamity ripping open the Chasm some forty years ago.
+
+The party gently warn they will bring an airship in which may appear threatening to some. Terrist illustrates this with an almost to scale image filling the hall, snorting flames and glaring at the puny humanoids assembled. Some petitioners flee in terror, others are thrilled, including Dagult and his general Sabine, who look at the party with an appraising respect.
+
+It later occurs to Terrist that  Mayor Galt left around this point too.
+
+The party decide bringing the ship into the docks would make sense, and decide to familiarise themselves with the area in order to prepare to plane shift it there. 
+
+A floating earthmote is tied to the ground with four giant chains near the docks. On top of this an elegant five story inn sits overlooking the harbour. The party are drawn in like moths to a flame and are greeted by elegantly dressed ladies wearing glowing masks with a ring of moonstones around the edges. They offer the finest fare and rooms, which Thoric and Leon tour while Terrist moves to the gaming room, noting the guards wear the same uniform as those in the Hall of Justice. A hostess shows Leon and Thoric an airship dock on the roof, noting docking is included with room and board. 
+Terrist  prestidigitates the dice with a nearly undetectable flick of a claw, and doubles his money several times until the croupier gets suspicious and politely asks for a re-throw. She scrutinises the next throw carefully and even so doesn't catch the subtle snick and retract of a single claw. 
+
+Another hostess appears behind Terrist and congratulates him on his winnings and offers him and his friends room, board and drinks (on his tab of course). She gently guides him away from the table and starts listing the made-to-order menu and seasonal delicacies while stroking his fur.  The same offer is conveyed to Leon and Thoric and they accept, for later.
+
+The party fly out on winged boots into the bay to mark a suitable position for the ship to return. Terrist clings to Leon's back and tries his Amulet of the Planes. It takes them to the Plane of Fire, but not the intended location. 
+
+Terrist finds himself hanging on above the Sea of Fire. Lava stretches underneath them in all directions. Far to the north, the Great Conflagration roars high into the air. Off in the distance to the southeast a rocky coastline stretches wide, broken only by a small town which they don't recognise, being too small to be the City of Brass. Terrist tries the amulet again, this time going arriving outside the great doors of Jemina's Red Wyrm Smelter.
+
+She greats them warmly, with no need to mention. They catch up, and Jemina notes they've closed a gate into the city from a cult lair. Terrist writes a quick report on this to the general and sends it in. Thoric thinks about asking about Mt Hotenow, and decides not to.
+
+The party find the pilot Xaderos and explain their plan. Xad is not confident but isn't given time for doubts as Terrist whips them all back to the Sea of Swords in the Port of Neverwinter.
+
+Xad spends some time familiarising himself with the area before Terrist shifts them back to Jemina's workshop again. Xad does his best to explain the location to Aspalex. Thoric hears draconic and demonic swearing through his helm at the lack of astral navigational skills on display,  general imprecision and the risks of multiple objects occupying various unecessarily specific parts of his body.
+
+Xaderos meanwhile confides to Thorics questions that he has a crisis of confidence. He's terrified, and the last time he did this was pursued by green dragons before the ship crashed.
+
+Thoric offers to plane shift only the ship, and Terrist displays an image of the harbour showing all points of view from the desired location. The ships personas study this carefully with varying levels of comprehension and much discussion.
+
+A consensus is reached and all board the ship. Xad guides Aspalex through the plane shift with loud crack, and fly out above Neverwinter harbour. 
+
+All three of the ship's voices express mild surprise and nervous relief that their first guided plane shift has worked.
+
+Salmur asks Xad how long he's been an airship pilot, to the response "The green dragons brought us down on my first mission".
+
+The ship docks gently at the Moonstone Mask, and the party enjoy the fine food in the feasthall. General Sabine nods to them from another table. 
+
+Night falls in Neverwinter. Title deeds are filed on the ship, construction was  ordered and the devils in the hold are glad to be out of the City of Brass. The party ponder their next move ...
+
+
+Session 56
+

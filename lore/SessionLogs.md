@@ -1401,4 +1401,28 @@ Night falls in Neverwinter. Title deeds are filed on the ship, construction was 
 
 
 Session 56
+The heroes give the crew a night of shore leave within the Moonstone Mask which is greeted with excitement by the crew with loot to squander and hosts keen to let them alike. After sampling the fine fare in the dining hall,  Thoric returns to the ship for a heroes feast for the party and the devils, who wisely keep a low profile even in a city they aren’t known in. Nightly wards are set on the ship, and the nightmares haughtily accept grooming and pampering in the stables. 
+Deep discussions run into the night on where to go next, with decisions are made and unmade. 
+
+Date X+ 117
+
+The sun rises after an uneventful night, and barely having talked to any locals the night before the party plane shift with Xad to Goldspire. 
+They are greeted more warmly this time, and Mayber Von Tollant lets them know their orders are ready: Leon’s black scale armour of absorption, Terrist’s black scale gauntlets, Aargh’s boots of speed and red scale armour. Accounts are settled with credit for the mini-gates dropped. Mayber demonstrates some of them with glee giving them names like "Fire Hose", "Tea Kettle", "The Louvre", "Sand Blaster" and "Who Farted?". When asked to borrow or use them he says they can drop more for their own use, or borrow them strictly for defending Corus Vale from its attackers, to be returned after. The war is not going well, with Weyrhold now under attack by Tabaxi from the Great Sand in the south, and the western and eastern fronts never seeming to have good news either.
+Terrist has a mildly concerning conversation with Spinch Mettis who is using a Tome of the Stilled Tongue for his research.
+Thoric flies Xad up to get his bearings for bringing in the ship, and Xad carefully notes the landmarks and distances. When ready Aargh takes Elk with him as they plane-shift back to the Mask in Neverwinter. The crew are roused from their plush beds as Xad tries to relay Goldspire’s coordinates to Akaanvaerd and Kalavanjert’s derision at his novice attempts at inter-planar navigation. The ship is packed and the navigator’s argue to a final disgruntled agreement. Aspalex launches across the harbour.
+
+The dragonskiff shifts unnervingly to a forested valley, at the tree line of a steep mountain. The mountain top is obscured by mist, and the forest stretches out over rolling foothills in the other direction. Close by a fresh scar of light-brown dirt reveals a metal lined cave uncovered by a landslide.
+The heroes know this is not Goldspire, but not anymore than that. Are they even on the same world, or plane?
+
+Curious though, they decide to explore the cave. Aargh, riding Elk leads the way.  After Thoric, Terrist and Leon follow, metal doors slide smoothly shut behind them, and strange globes of light blink to life. Straight, polished metal floors, walls and ceilings with hard right angles are everywhere, and a pile of bones lies on the floor. A curved tube going into the floor sealed off with curved doors is right in front of them. Thoric carefully inspects the bones, noting a rotten vegepygmy corpse before a Cloaker takes advantage of his distraction and moaning loudly drops on top of him, narrowly missing his head with a smothering bite and flailing tail. The free Cloakers both seem to replicate itself into three again, with mirror-image like phantasms. Terrist and Aargh notices two more, dropping out of nowhere and the party lay into them, quickly dispatching one of the three. One bites Terrist on the head, suffocating and blinding him. Attacking it damages him too, but he bravely hits it anyway, as do the rest of the party, possibly enjoying it a little too much. Thoric hits one with his hammer which disappears. Terrist’s Cloaker-face is beaten to a pulp, with him too, before the other Cloaker tries to swallow Aargh’s head. Terrist leaps up to stab the final phantasm leaving only the one Aargh is trying to axe off his own head.
+
+A wheeled metal construct rushes in with flashing lights, sirens and grappling claw hands extended. Beams of light shoot out and it dissipates a phantasm, and helps with the remaining real Cloaker, which releases Aargh and futilely tries to flee, getting pinballed from three sides by Leon, Terrist and Thoric.
+
+The robot calmly states "I was sent by my master to aid you. Please follow me". Thoric asks for a little recovery time, and the party heal, and he finishes his search of the bones, finding a violet keycard, which might match a slot near some of the doors.
+
+The robot waits patiently, then leads them through a waiting room, where a bodiless voice announces "The medical centre is now closed. Please come back in office hours, or visit the urgent care centres near the east or west drop-tubes if needed.". Doors open silently as the robot approaches, and it leads them into a room with a large screen on the wall, which flickers to life displaying a stylised icon of a face. The screen greets them, asks their names and introduces itself as Aphelion 3000, or ‘Alphie’, and explains the spaceship has been overrun by vegepygmies, has malfunctioning robots and has crashed some time ago. Alphie offers technological devices in exchange for helping it take stock of the androids on this level, get samples from the dangerously irradiated rooms, and clear out the vegepygmies by any means.
+
+The party consider Alphie’s offer. Curious as always, the strange magic intrigues them …
+
+Session 57
 

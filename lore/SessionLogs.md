@@ -1438,4 +1438,13 @@ Another lounge contains nine humans and elves in blue jumpsuits, some with pecul
 The party debate the ethics of whether to release the medical droids on it as a possibly gruesome medical experiment, or it leave it as a prisoner for an unknown period of time and fate …
 
 Session 59
+The explorers leave the doppelgänger to the mercy of the robot guards. They keep exploring, finding a room full of webs. Cocoons hold dessicated former crew, passengers, pets and swarms of baby spiders. The web-makers, a swarm of phase spider return from their ethereal hunt and give the party a taste of what it must be like to face themselves on nightmare-back; attacking from ambush and immediately plane-shifting away. Thoric casts True Sight on Leon so he can see the spiders, who use the walls to their advantage, hiding around corners to give themselves another surprise attack. The party see at least one of the spiders and squash it, and turn the tables on the attackers, giving no quarter until they exterminate the arachnids.
+
+The party move on to the southern vegepygmy colony. Virtu sends in an invisible, or at least so he thinks, DeeSix to scout ahead. Vegepygmy Scavengers wander the rooms, chittering and using fibrous mushrooms to play fetch with quadrupedal vegepygmy Thorny Hunters. A single closed door provides a real issue to gain access to the chief - Virtu has the pseudodragon practice swiping a keycard before they send it in. The flying lizard manages to wield the key like a shield into the slot. Inside the room Virtu speaks through DeeSix, booming out a warning to leave and the chief demands they show themselves. The party steel themselves and go in to talk to the vegepygmy leader, Griss. He asks of the outside, and why they should leave. Leon makes a convincing argument for the Barrier Peaks forest and the plant people agree to leave peacefully.
+
+The heroes explore further, taking apart a sparking, broken robot for parts and hidden gems. An android with a broken pipe poking through its head jumps up to attack them, claiming not to be injured despite the obvious. The party lead it back to the cells and detain it too. A pair of grey slaadi painting a wall in an abstract mural are banished easily.
+
+The adventurers consider their next move, wondering what lies deeper.
+
+Session 60
 

@@ -1447,4 +1447,57 @@ The heroes explore further, taking apart a sparking, broken robot for parts and 
 The adventurers consider their next move, wondering what lies deeper.
 
 Session 60
+Leon, Thoric and Virtu decide to scout deeper, sending a DeeSix down the drop tubes. He finds razorvine nearby 3 of the 4 2nd level droptube foyers. The 3rd level can be seen 80' below, rubble blocking the tube below that. They start at the northern end as recommended and burn away the dense spiky foliage from a safe distance.   A balcony is uncovered, in a great ring opening to show a lake with an island a level down. Fixed binoculars are mounted at regular intervals, and Virtu admires the view with them. Thoric looks closer through them and sees a large amphibian shadow lurking in the depths. 
+Virtu opens a door, finding a pair of androids in a gym, one effortlessly lifting heavy weights while another spots. Noticing the intruders the robo-lifters shout training instructions while hurling weights at them.  Thoric and Leon grapple them while Virtu scouts the nearby locker and storage rooms, finding a long dead maintenance worker carrying a diary. He takes the diary for later and the party strongmen wrestle the androids into the storage room, throwing them against the far wall. Thoric heats the sliding door and tries unsuccessfully to jam a weight bar through the red hot metal to jam it shut, skidding it off the surface despite the massive force he applies. The androids unlock the door with inbuilt keycards and open the door but it sticks on the now warped plate, scorching their metal hands as they try to force it open. Leon tries more perpendicularly and slowly pushes the bar home. Thoric lets the heat dissipate and the door congeals solid around the bar, sealing the androids in.
 
+Virtu reads the diary, which journals the mission and its fall to the fungal epidemic. It ends with speculation as to the machines loyalties.
+
+Next door the party find an octagonal ring surrounded by seats and three more androids. These all approach a party member and politely challenge them to a bout in the ring. A fencer with a rapier chooses Leon, a boxer picks Thoric and a martial artist Virtu. The androids allow them a minute to heal and Thoric squares up first and elects to fight bare fisted too. He trades blows toe-to-toe with the pugilist-bot in a ultra-heavyweight match of galactic rankability for an  audience of only four. The slugfest grinds them both down while the bot gives pointers on Thoric's pankration form while pulling no punches. Thoric wonders if weaponless was necessary or wise and grabs his shield to deflect a few blows and this perhaps proves the difference as he finally sits the boxer-bot down like a crumpled tin doll.
+
+Virtu takes up the challenge next and while he fights bravely and deals solid blows, lacks the defenses and fortitude of the front-liners, falling down hard. Leon steps in and takes out the swords-bot who gloats about his skills and chosen field being the superior style. This doesn't end well for the bot as Leon carves it up with the Retorter. He turns to the martial artist, who similarly holds its own field highest and gives Leon a series of spinning kicks, few of which connect. The Retorter has no such trouble and the bot falls, giving Leon encouragement and advice all the way.
+
+The party rest and Virtu heals up, before they return to clear more razorvine outside a cargo hold. Inside the hold some pustulent Fomorians ratting through crates of building materials turn and attack on site. The mutated giants deal some punishment and take even more before splattering into a puddle of radioactive goo. Thoric and Leon avoid this like the plague after their last exposure luckily taking no fatigue and Virtu wisely hangs back.
+
+Date X+118
+
+After dealing with the giants, bruised and battered they search the warehouse, noting the heavy duty goods lift. An adjoining alcove room holds three dormant maintenance bots and a combat bot.
+
+Finding nothing else immediately useful they move on. The next room is a cafeteria, with an adjoining kitchen. Some friendly and very insistent bots request their food orders and once given, hurry off to the kitchen to return with plates of mouldy slop definitely NOT asked for. 
+
+The bots repeatedly ask the adventurers to eat the furry food, seeming concerned with keeping up their  strength. Leon convinces the bots to provide doggy bags for "later", and the spoils are taken away by the party.
+
+On the other side of the kitchen with service windows facing it is a theatre with ascending rows of seats. In there two tentacle faced creatures in rubber jumpsuits search through a pile of technological devices. As the party enter a giant screen lights up, briefly showing a scene of hammy actors being attacked by strange creatures, screaming in fear. 
+
+The party move towards the seats and go to sit down and watch the show.
+
+From behind the first row a four legged brain leaps out and takes an aggressive stance. Three more pop up over the seats. The Intellect Devourers, and their mind-flayer masters turn on the party who suddenly realise the real horror show could be unfolding now.
+
+Thoric's Spirit Guardians have been trailing since the cargo hold form a defence which holds even while the brain-puppies stun him and Leon into blathering idiots. One illithid mind-blasts the party while the other turns on Virtu, whipping it's tentacles like tongues licking lips as it attempts to dominate Virtu, who luckily avoids this and total party incapacitation. Facing 5:1 odds Virtu restores Thoric to his senses. 
+
+An Intellect Devourer jumps into Leons head, eating his brain and taking over his body like a power-suit.
+
+Thoric and Virtu banish the mind-flayers and exit the room followed by not-really-Leon-anymore. 
+
+The party are ready to run for their life back to the ship. Closer at hand they see the robots from the cargo hold racing toward them. Aphelion sees all and sent help. 
+
+Thoric uses the Cloak of the Mountebank to dimension door him and Virtu behind the bots.
+
+Leon-suited-brain gives chase, the paladin's aura the only vestige of help for his compatriots. Virtu turns to attack again, taking on his former ally, stunning him with a psychic Lance.
+
+The intellect devourers meanwhile have run through the kitchen serving windows and cafeteria, appearing near Virtu, attacking from seemingly nowhere and breaking concentration on the banishment, popping one mind-flayer back into the theatre. The robots take the intellect devourers on, and squish two before long. 
+
+The intellect devourer abandons Leons now brainless body to collapse and slip toward death. Thoric hammers the brain-on-legs flat, Leons brain inside its stomach with it.
+
+Numbers now on their side again the party crush the devourers and then the illithid with Virtu collecting their final toll to cross the Stygia.
+
+Leons body parts are gathered up, mixed with another brain and brought back to the ship where Thoric prepares over two days to bring Leon back to life reunited with his brain.
+
+Weakened but alive, Leon stands again with a stylish head wound. 
+
+Have the party taken a lesson in over-confidence? Time will tell. Leon has seen a glimpse of the heavens and has chosen to continue the mortal life for now - too much remains undone.
+
+The tale changes and improves in each telling, til no-one knows what's true. Of those present Virtu remembers the most, but it seems a nightmare now seen from a distance and he questions his moment of truth and loneliness in flashes of intrusive random terror at the alternative.
+
+Date X+120
+
+Session 61

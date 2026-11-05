@@ -1,4 +1,4 @@
-import { Client, GatewayIntentBits } from 'discord.js';
+import { Client, GatewayIntentBits, Events } from 'discord.js';
 import OpenAI from 'openai';
 import fs from 'fs/promises';
 import { systemPrompt } from './systemPrompt.js';
@@ -74,10 +74,8 @@ const announce = () => {
   announced = true;
   console.log(`🚀 The Ship Who Chats is online as ${client.user.tag}`);
 };
-
-client.once('clientReady', announce);
-client.once('ready', announce); // backward compatibility 
-
+ 
+client.once(Events.ClientReady, announce);
 
 client.on('messageCreate', async (message) => {
   console.log(`📩 Message in channel ${message.channel.id} from ${message.author.tag}: "${message.content}"`);

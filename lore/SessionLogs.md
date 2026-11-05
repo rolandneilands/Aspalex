@@ -1501,3 +1501,48 @@ The tale changes and improves in each telling, til no-one knows what's true. Of 
 Date X+120
 
 Session 61
+Leon rises from his makeshift funereal bier groggily and bone-weary. Mt Celestia fades like a dream of peace and calm into the unrelenting weight of a besieged countries expectations. His comrades-in-arms greet him warmly back with tales of his wake the night before, perhaps a little over-celebrated.
+
+The party reconsider their next move while Leon recuperates for a few days from cub strength back to lion. Leon is hesitant to face the spaceship again, Thoric counsels rest, and Terrist is keen to explore the techno-paradise lost. 
+
+They decide to use the time to take the airship to Corus Vale for the first time. Thoric finds a path there, revealing a direction high in the sky 117 million million miles away. Leaving most of the crew, he plane-shifts the ship, Leon and Terrist to Goldspire.
+
+The mages come pouring out in amazed excitement. Akaanvaerd gives a fiery warning snort at those getting too close. 
+
+The party welcome them aboard and the mages peer with amazement at everything, talking to the ship and catching up with the party alike. Thoric offers to take ten of them to the spaceship at Barrier Peaks. Mayber insists one of the four elemental house leaders remain behind, and the Fire Master Spinch Mettis draws the short straw.
+
+The ship shifts back under its own power. The Air Master Espon Dartly admires the chains as lightning rods and offers to recharge the ship as a travel toll, which the party accept.
+
+The mage delegation enter the uncovered spaceship airlock in awe, and the party introduce them to Aphelion 3000 who makes them a similar offer to the one made to our heroes. 
+
+The mages politely decline and are happy to stay in the already cleared areas with more than enough to be found there.
+
+The party leave the airship and the wizards to their techno-archaeology for a day or so and decide to visit the nearby town, flying on nightmare-back to land in the woods nearby, and letting the horses roam back the ship, hunting along the way.
+
+The enter the small town in their original gear, doffing the powersuits. A bored sentry charges them a silver each as toll, and looks briefly at the coins before shrugging and letting them through. 
+
+They enter the lower docks, noticing a grimy and bustling slum with many different boats being loaded and unloaded into nearby warehouses.
+
+An urchin bumps Thoric, excusing themselves in a girlish voice. Thoric doesn't notice anything missing although isn't quite sure.
+
+A boat containing an open cage appears to drift rudderless into the harbour.  The party try to report this to the surly Dwarven dockmaster called Aegis, who doesn't seem particularly interested unless the boat is docked. Terrist notices some thieves cant scrawled along the rafters above the guard dog, translating as "Pay now or pay later".
+
+Thoric overhears some kids quarreling nearby over whose turn it is to open something they've nabbed. Terrist sneaks around the corner to find them at tug-o-war over a metal bottle. 
+
+He reveals himself and offers to identify it. The kids reluctantly agree. Terrist looks briefly and taps in Thoric who identifies it as an Iron Flask with something trapped inside. Knowing it will be friendly for an hour they offer to let the kids control this creature while the party keep the flask. 
+
+The kids don't hesitate, popping the cap with glee to loose an insect-like yugoloth called a mezzoloth. The urchins exclaim "Now we can get revenge on Jonny Rotten!" and scuttle off with their new trident wielding fiendish ally down the nearest sewer grate.
+
+A cloud of green smoke promptly steams out, with some commotion.
+
+The party fly out over the harbour to look more closely at the drifting boat, now closer. Apart from the cage and a pile of rags, multiple bodies lay around the boat. Slashes and blood leave no hope for survivors. Landing in the boat, the pile of rags unfold into the leathery wings of a Chimera rising. 
+Using the Iron Flask, the party trap it immediately.
+
+Drifting into port, the dockmaster suddenly takes interest in collecting the docking fee. Thoric comments they should be being paid for dealing with the uncaged chimera, and the party abandon the boat.
+
+They find the traveler the flask was originally stolen from. The aasimar claims to be an emissary from a nearby town, though right now is seeking revenge on an ex lovers new beau. The party and decide to show him the way the gutter rats took into the sewer.  In there they discover the corpse of the inept cutpurse Johnny.
+
+The traveler turns on them after some unspoken comments about the flask, and is taken down, unmasking a doppelganger. Leon shows no mercy or hesitation this time and ends its life of deception, perhaps in sympathy for the fallen angel of Helm the  creature had replaced like a cuckoo.
+
+Session 62
+

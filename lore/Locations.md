@@ -326,36 +326,23 @@ Vertical Level
 1.    Dao palace - Eleftrate Khan. Diamond.
 
 2.        3 geodes:
+2.2        2 o’clock Dao. Ruby.
+2.6        6 o’clock Drow. Opal.
+2.10       10 o’clock Duergar. Mining and smithing. Chalcedony.
 
-1.        2 o’clock Dao. Ruby.
+3.        7 geodes:
+3.1        1 o’clock Svirfneblin. Amethyst. Optics and engineering.
+3.3        3 o’clock Stone Giants. Moonstone.
+3.5        5 o’clock Goblins. Malachite. Slums, Thieves guild and labour hire.
+3.7        7 o’clock Dracoliths and kobold inventors. Obsidian.
+3.9        9 o’clock Batmen. Marble.
+3.11       11 o’clock Dwarves. Sapphire. Rare stones and metals.
+3.0        The Nexus – neutral centre and bazaar. Quartz.
 
-2.        6 o’clock Drow. Opal.
-
-3.        10 o’clock Duergar. Mining and smithing. Chalcedony.
-
-3.        7 geodes
-
-1.        1 o’clock Svirfneblin. Amethyst. Optics and engineering.
-
-2.        3 o’clock Stone Giants. Moonstone.
-
-3.        5 o’clock Goblins. Malachite. Slums, Thieves guild and labour hire.
-
-4.        7 o’clock Dracoliths and kobold inventors. Obsidian.
-
-5.        9 o’clock Batmen. Marble.
-
-6.        11 o’clock Dwarves. Sapphire. Rare stones and metals.
-
-7.        The Nexus – neutral centre and bazaar. Quartz.
-
-4.        3 geodes
-
-1.        2 o’clock The Sluice – waterfall. Serpentine.
-
-2.        6 o’clock Psilo Green – mycofarm. Mica.
-
-3.        10 o’clock The Dank – Troglodytes. Topaz.
+4.        3 geodes:
+4.1        2 o’clock The Sluice – waterfall. Serpentine.
+4.6        6 o’clock Psilo Green – mycofarm. Mica.
+4.10       10 o’clock The Dank – Troglodytes. Topaz.
 
 5.        The Sink – aboleths. Bloodstone.
 

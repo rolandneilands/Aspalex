@@ -73,7 +73,7 @@ Does not celebrate Emberwake, rather “Storm’s Eye” – a moment of peace t
 
 Plane of Fire:
 
-Does not tolerate mention of Frostcoil, instead they stage the “Freedom Race” where all slaves may race to win their freedom, at risk of longer service.
+Does not tolerate mention of Frostcoil, instead they stage the “Freedom Race” where all slaves may race to win their freedom, at risk of longer service, on Restday (or if none that year only the main Maidan steeplechase is held).
 
 Example Month: Gildtide 503 AR
 

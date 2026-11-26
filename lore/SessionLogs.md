@@ -1034,6 +1034,7 @@ Another drops a wall of fire on Thoric and Leon, while the nearby nautiloid snak
 This night holds no more terrors, and the pre-dawn glow marks the time get to the starting line of the City of Brass’s most famous event held on the site of it’s very near defeat by Archmage Tzunk.
 
 Date X+107
+Restday, 7 Duskwatch, 504 AR
 
 Glory awaits the winner, but is any prize worth the cost? Will the rules be followed?  What traps lie in wait?
 
@@ -1546,4 +1547,6 @@ They find the traveler the flask was originally stolen from. The aasimar claims 
 The traveler turns on them after some unspoken comments about the flask, and is taken down, unmasking a doppelganger. Leon shows no mercy or hesitation this time and ends its life of deception, perhaps in sympathy for the fallen angel of Helm the  creature had replaced like a cuckoo.
 
 Session 62
+
+Moonsday 20 Duskwatch, 504 AR (20 Hammer, 1492 DR)
 

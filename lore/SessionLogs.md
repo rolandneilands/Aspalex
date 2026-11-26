@@ -13,6 +13,7 @@ He helped organise and defend a small town from kobolds after this, and with som
 Session 1
 
 Date: X
+Moonsday, 26 Bloodshade, 503 AR
 
 Introduction: Started in small trading post known as The Crossing. 
 
